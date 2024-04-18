@@ -1,9 +1,9 @@
 -c
 -pipe
 -I"."
--I"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private"
--I"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRAnchors/Private"
--I"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRScene/Private"
+-I"D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private"
+-I"D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRAnchors/Private"
+-I"D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRScene/Private"
 -I"Runtime/Core/Public"
 -I"Runtime/Core/Internal"
 -I"Runtime/TraceLog/Public"
@@ -111,9 +111,9 @@
 -I"Runtime/TypedElementFramework/Public"
 -I"../Intermediate/Build/Android/UnrealGame/Inc/TypedElementRuntime/UHT"
 -I"Runtime/TypedElementRuntime/Public"
--I"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT"
--I"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source"
--I"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public"
+-I"D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT"
+-I"D:/LuaTemplate/Plugins/MetaXR/Source"
+-I"D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public"
 -I"../Intermediate/Build/Android/UnrealGame/Inc/HeadMountedDisplay/UHT"
 -I"Runtime/HeadMountedDisplay/Public"
 -I"../Plugins/Runtime/XRBase/Intermediate/Build/Android/UnrealGame/Inc/XRBase/UHT"
@@ -130,14 +130,14 @@
 -I"../Plugins/Runtime/AndroidPermission/Intermediate/Build/Android/UnrealGame/Inc/AndroidPermission/UHT"
 -I"../Plugins/Runtime/AndroidPermission/Source/AndroidPermission/Classes"
 -I"../Plugins/Runtime/AndroidPermission/Source/AndroidPermission/Public"
--I"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRAnchors/UHT"
+-I"D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRAnchors/UHT"
 -I"Runtime/Engine/Classes/Components"
--I"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRAnchors/Public"
--I"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include"
--I"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRScene/UHT"
--I"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRScene/Public"
--isystem"C:/Users/MichelBrito/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue"
--isystem"C:/Users/MichelBrito/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/cpufeatures"
+-I"D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRAnchors/Public"
+-I"D:/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include"
+-I"D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRScene/UHT"
+-I"D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRScene/Public"
+-isystem"C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue"
+-isystem"C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/cpufeatures"
 -Wall
 -Werror
 -Wdelete-non-virtual-dtor
@@ -196,18 +196,18 @@
 -fno-short-enums
 -fforce-emit-vtables
 -D_FORTIFY_SOURCE=2
--DPLATFORM_USED_NDK_VERSION_INTEGER=33
+-DPLATFORM_USED_NDK_VERSION_INTEGER=26
 -DPLATFORM_64BITS=1
- --target=aarch64-none-linux-android33 --gcc-toolchain="C:\Users\MichelBrito\AppData\Local\Android\Sdk\ndk\25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/MichelBrito/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
+ --target=aarch64-none-linux-android26 --gcc-toolchain="C:\Users\AshFrost\AppData\Local\Android\Sdk\ndk\25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
 -D__arm64__
 -DPLATFORM_ANDROID_ARM64=1
 -march=armv8-a
 -fsigned-char
--include-pch "C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Intermediate/Build/Android/a/LuaTemplate/Development/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.gch"
--include "C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRScene/Definitions.OculusXRScene.h"
+-include-pch "D:/LuaTemplate/Intermediate/Build/Android/a/LuaTemplate/Development/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.gch"
+-include "D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRScene/Definitions.OculusXRScene.h"
 -x c++
 -std=c++20
 -fpch-validate-input-files-content
-"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRScene/Module.OculusXRScene.cpp"
--MD -MF"C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRScene/Module.OculusXRScene.cpp.d"
--o "C:/Users/MichelBrito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRScene/Module.OculusXRScene.cpp.o"
+"D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRScene/Module.OculusXRScene.cpp"
+-MD -MF"D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRScene/Module.OculusXRScene.cpp.d"
+-o "D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRScene/Module.OculusXRScene.cpp.o"
