@@ -1,15 +1,15 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\michel brito\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxropenxrhmd\\module.oculusxropenxrhmd.cpp",
+        "Source": "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxropenxrhmd\\module.oculusxropenxrhmd.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\michel brito\\documents\\unreal projects\\luatemplate\\intermediate\\build\\win64\\x64\\luatemplateeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\intermediate\\build\\win64\\x64\\luatemplateeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\users\\michel brito\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxropenxrhmd\\definitions.oculusxropenxrhmd.h",
-            "c:\\users\\michel brito\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxropenxrhmd\\private\\oculusxropenxrhmd.cpp",
-            "c:\\users\\michel brito\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxropenxrhmd\\private\\oculusxropenxrhmd.h",
+            "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxropenxrhmd\\definitions.oculusxropenxrhmd.h",
+            "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxropenxrhmd\\private\\oculusxropenxrhmd.cpp",
+            "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxropenxrhmd\\private\\oculusxropenxrhmd.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h",
-            "c:\\users\\michel brito\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxropenxrhmd\\public\\ioculusxropenxrhmdplugin.h",
+            "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxropenxrhmd\\public\\ioculusxropenxrhmdplugin.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\plugins\\runtime\\openxr\\source\\openxrhmd\\public\\iopenxrextensionplugin.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\augmentedreality\\public\\artypes.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\augmentedreality\\uht\\artypes.generated.h",

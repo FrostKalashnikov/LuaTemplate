@@ -39,9 +39,9 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NATVIS:"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RenderCore\RenderCore.natvis"
-"C:\Users\Michel Brito\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\LuaTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
-"C:\Users\Michel Brito\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Module.OculusXROpenXRHMD.cpp.obj"
-"C:\Users\Michel Brito\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Default.rc2.res"
+"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\LuaTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Module.OculusXROpenXRHMD.cpp.obj"
+"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Default.rc2.res"
 "ThirdParty\Windows\DirectX\Lib\x64\dxgi.lib"
 "ThirdParty\Windows\DirectX\Lib\x64\d3d9.lib"
 "ThirdParty\Windows\DirectX\Lib\x64\d3d11.lib"
@@ -109,7 +109,7 @@
 "shlwapi.lib"
 "setupapi.lib"
 "cfgmgr32.lib"
-/OUT:"C:\Users\Michel Brito\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Binaries\Win64\UnrealEditor-OculusXROpenXRHMD.dll"
-/IMPLIB:"C:\Users\Michel Brito\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\UnrealEditor-OculusXROpenXRHMD.sup.lib"
-/PDB:"C:\Users\Michel Brito\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Binaries\Win64\UnrealEditor-OculusXROpenXRHMD.pdb"
+/OUT:"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Binaries\Win64\UnrealEditor-OculusXROpenXRHMD.dll"
+/IMPLIB:"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\UnrealEditor-OculusXROpenXRHMD.sup.lib"
+/PDB:"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Binaries\Win64\UnrealEditor-OculusXROpenXRHMD.pdb"
 /ignore:4078

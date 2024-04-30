@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "../../../../../../../../Users/Michel Brito/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRInput/Public/OculusXRControllerComponent.h"
+#include "../../../../../../../../Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRInput/Public/OculusXRControllerComponent.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeOculusXRControllerComponent() {}
 // Cross Module References
@@ -128,15 +128,15 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRControllerComponent() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UOculusXRControllerComponent);
 	UOculusXRControllerComponent::~UOculusXRControllerComponent() {}
-	struct Z_CompiledInDeferFile_FID_Users_Michel_Brito_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRInput_Public_OculusXRControllerComponent_h_Statics
+	struct Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRInput_Public_OculusXRControllerComponent_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Brito_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRInput_Public_OculusXRControllerComponent_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRInput_Public_OculusXRControllerComponent_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_UOculusXRControllerComponent, UOculusXRControllerComponent::StaticClass, TEXT("UOculusXRControllerComponent"), &Z_Registration_Info_UClass_UOculusXRControllerComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRControllerComponent), 2956277696U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Brito_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRInput_Public_OculusXRControllerComponent_h_705410196(TEXT("/Script/OculusXRInput"),
-		Z_CompiledInDeferFile_FID_Users_Michel_Brito_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRInput_Public_OculusXRControllerComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Michel_Brito_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRInput_Public_OculusXRControllerComponent_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRInput_Public_OculusXRControllerComponent_h_705410196(TEXT("/Script/OculusXRInput"),
+		Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRInput_Public_OculusXRControllerComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRInput_Public_OculusXRControllerComponent_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
