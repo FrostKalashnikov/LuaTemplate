@@ -5,8 +5,8 @@
 -I"Runtime/OpenGLDrv/Private"
 -I"Runtime/Engine/Classes/Components"
 -I"Runtime/Engine/Classes/Kismet"
--I"D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Public"
--I"D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private"
+-I"C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Public"
+-I"C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private"
 -I"Runtime/Core/Public"
 -I"Runtime/Core/Internal"
 -I"Runtime/TraceLog/Public"
@@ -124,13 +124,13 @@
 -I"Runtime/MediaUtils/Public"
 -I"Runtime/OpenGLDrv/Public"
 -I"Runtime/VulkanRHI/Public"
--I"D:/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include"
+-I"C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include"
 -I"../Plugins/Runtime/ProceduralMeshComponent/Intermediate/Build/Android/UnrealGame/Inc/ProceduralMeshComponent/UHT"
 -I"../Plugins/Runtime/ProceduralMeshComponent/Source/ProceduralMeshComponent/Public"
 -I"Runtime/Projects/Public"
--I"D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT"
--I"D:/LuaTemplate/Plugins/MetaXR/Source"
--I"D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public"
+-I"C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT"
+-I"C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source"
+-I"C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public"
 -I"../Intermediate/Build/Android/UnrealGame/Inc/HeadMountedDisplay/UHT"
 -I"Runtime/HeadMountedDisplay/Public"
 -I"../Plugins/Runtime/XRBase/Intermediate/Build/Android/UnrealGame/Inc/XRBase/UHT"
@@ -145,8 +145,8 @@
 -I"../Plugins/Runtime/AndroidPermission/Intermediate/Build/Android/UnrealGame/Inc/AndroidPermission/UHT"
 -I"../Plugins/Runtime/AndroidPermission/Source/AndroidPermission/Classes"
 -I"../Plugins/Runtime/AndroidPermission/Source/AndroidPermission/Public"
--isystem"C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue"
--isystem"C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/cpufeatures"
+-isystem"C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue"
+-isystem"C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/cpufeatures"
 -isystem"ThirdParty/OpenGL"
 -isystem"ThirdParty/Vulkan/Include"
 -isystem"ThirdParty/Vulkan/Include/vulkan"
@@ -209,18 +209,18 @@
 -fno-short-enums
 -fforce-emit-vtables
 -D_FORTIFY_SOURCE=2
--DPLATFORM_USED_NDK_VERSION_INTEGER=26
+-DPLATFORM_USED_NDK_VERSION_INTEGER=29
 -DPLATFORM_64BITS=1
- --target=aarch64-none-linux-android26 --gcc-toolchain="C:\Users\AshFrost\AppData\Local\Android\Sdk\ndk\25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
+ --target=aarch64-none-linux-android29 --gcc-toolchain="C:\Users\Michel\AppData\Local\Android\Sdk\ndk\25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
 -D__arm64__
 -DPLATFORM_ANDROID_ARM64=1
 -march=armv8-a
 -fsigned-char
--include-pch "D:/LuaTemplate/Intermediate/Build/Android/a/LuaTemplate/Development/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.gch"
--include "D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRHMD/Definitions.OculusXRHMD.h"
+-include-pch "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Intermediate/Build/Android/a/LuaTemplate/Development/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.gch"
+-include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRHMD/Definitions.OculusXRHMD.h"
 -x c++
 -std=c++20
 -fpch-validate-input-files-content
-"D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRHMD/Module.OculusXRHMD.3.cpp"
--MD -MF"D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRHMD/Module.OculusXRHMD.3.cpp.d"
--o "D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRHMD/Module.OculusXRHMD.3.cpp.o"
+"C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRHMD/Module.OculusXRHMD.3.cpp"
+-MD -MF"C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRHMD/Module.OculusXRHMD.3.cpp.d"
+-o "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRHMD/Module.OculusXRHMD.3.cpp.o"
