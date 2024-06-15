@@ -28,6 +28,11 @@
 			"Name": "ImageResizUEr",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/670be04026664663875aadd4dea45b9d"
+		},
+		{
+			"Name": "VrPrintString",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8a252462972b4b0383fcad6fc8a75f18"
 		}
 	],
 	"TargetPlatforms": [
