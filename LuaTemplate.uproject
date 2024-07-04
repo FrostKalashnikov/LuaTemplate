@@ -33,6 +33,11 @@
 			"Name": "VrPrintString",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8a252462972b4b0383fcad6fc8a75f18"
+		},
+		{
+			"Name": "RestartEditor",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a00eb1e478ae4a8fb655aa22f9125b07"
 		}
 	],
 	"TargetPlatforms": [
