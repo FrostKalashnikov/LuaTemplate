@@ -74,3 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 !Plugins/**
 Android_ASTC/*
+Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/Timestamp
+Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRInput/UHT/Timestamp
+Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/Timestamp
+Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRScene/UHT/Timestamp
