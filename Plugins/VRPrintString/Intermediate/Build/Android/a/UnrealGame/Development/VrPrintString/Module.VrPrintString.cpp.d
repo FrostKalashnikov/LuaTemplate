@@ -2094,25 +2094,12 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Int
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/istream \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/a/UnrealGame/Development/VrPrintString/Module.VrPrintString.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/a/UnrealGame/Development/VrPrintString/Definitions.VrPrintString.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString.init.gen.cpp \
-  Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString_Actor.gen.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Public/VrPrintString_Actor.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Private/VrPrintString.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Public/VrPrintString.h \
   Runtime/Core/Public/CoreMinimal.h \
-  Runtime/Engine/Classes/GameFramework/Actor.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString_Actor.generated.h \
-  Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
-  Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString_Interface.gen.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Public/VrPrintString_Interface.h \
-  Runtime/CoreUObject/Public/UObject/Interface.h \
-  Runtime/SlateCore/Public/Fonts/SlateFontInfo.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString_Interface.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString_Library.gen.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Public/VrPrintString_Library.h \
-  Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString_Library.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString_Settings.gen.cpp \
+  Runtime/Core/Public/Modules/ModuleManager.h \
+  Developer/Settings/Public/ISettingsModule.h \
+  Runtime/Core/Public/Modules/ModuleInterface.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Public/VrPrintString_Settings.h \
   Runtime/CoreUObject/Public/UObject/NoExportTypes.h \
   Runtime/Core/Public/PixelFormat.h \
@@ -2128,6 +2115,7 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Int
   Runtime/Core/Public/Templates/Function.h \
   Runtime/Core/Public/Templates/UniquePtr.h \
   Runtime/Core/Public/UObject/NameTypes.h \
+  Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
   Runtime/CoreUObject/Public/UObject/UnrealType.h \
   Runtime/CoreUObject/Public/Serialization/TestUndeclaredScriptStructObjectReferences.h \
   Runtime/CoreUObject/Public/UObject/ObjectPtr.h \
@@ -2166,13 +2154,12 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Int
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/UObject/../../../ApplicationCore/Public/GenericPlatform/ICursor.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/UObject/../../../ApplicationCore/Public/GenericPlatform/IInputInterface.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString_Settings.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Private/VrPrintString.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Public/VrPrintString.h \
-  Runtime/Core/Public/Modules/ModuleManager.h \
-  Developer/Settings/Public/ISettingsModule.h \
-  Runtime/Core/Public/Modules/ModuleInterface.h \
+  Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
   Runtime/CoreUObject/Public/UObject/ConstructorHelpers.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Private/VrPrintString_Actor.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Public/VrPrintString_Actor.h \
+  Runtime/Engine/Classes/GameFramework/Actor.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString_Actor.generated.h \
   Runtime/UMG/Public/Components/WidgetComponent.h \
   Runtime/CoreUObject/Public/Templates/SubclassOf.h \
   Runtime/SlateCore/Public/Layout/ArrangedWidget.h \
@@ -2201,6 +2188,7 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Int
   Runtime/FieldNotification/Public/FieldNotificationId.h \
   Runtime/FieldNotification/Public/IFieldNotificationClassDescriptor.h \
   Runtime/FieldNotification/Public/INotifyFieldValueChanged.h \
+  Runtime/CoreUObject/Public/UObject/Interface.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/FieldNotification/UHT/INotifyFieldValueChanged.generated.h \
   Runtime/SlateCore/Public/Layout/Visibility.h \
   Runtime/SlateCore/Public/Types/SlateStructs.h \
@@ -2376,6 +2364,7 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Int
   Runtime/MovieScene/Public/MovieScenePossessable.h \
   Runtime/MovieScene/Public/MovieSceneDynamicBinding.h \
   Runtime/MovieScene/Public/EntitySystem/MovieSceneSequenceInstanceHandle.h \
+  Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/MovieScene/UHT/MovieSceneDynamicBinding.generated.h \
   Runtime/MovieScene/Public/IMovieScenePlayer.h \
   Runtime/MovieScene/Public/MovieSceneSpawnRegister.h \
@@ -2441,6 +2430,8 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Int
   ../Intermediate/Build/Android/UnrealGame/Inc/UMG/UHT/WidgetComponent.generated.h \
   Runtime/Engine/Classes/Materials/MaterialInterface.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Private/VrPrintString_Library.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Public/VrPrintString_Library.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString_Library.generated.h \
   Runtime/Engine/Classes/Kismet/GameplayStatics.h \
   Runtime/Engine/Classes/Engine/EngineTypes.h \
   Runtime/Engine/Public/CollisionQueryParams.h \
@@ -2456,4 +2447,7 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Int
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/GameplayStaticsTypes.generated.h \
   Runtime/Engine/Classes/Particles/WorldPSCPool.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/GameplayStatics.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Public/VrPrintString_Interface.h \
+  Runtime/SlateCore/Public/Fonts/SlateFontInfo.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Intermediate/Build/Android/UnrealGame/Inc/VrPrintString/UHT/VrPrintString_Interface.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/VRPrintString/Source/VRPrintString/Private/VrPrintString_Settings.cpp
