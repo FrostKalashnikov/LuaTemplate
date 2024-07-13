@@ -2094,14 +2094,17 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/istream \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRPassthrough/Module.OculusXRPassthrough.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRPassthrough/Definitions.OculusXRPassthrough.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Private/OculusXRPassthroughColorLut.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Public/OculusXRPassthroughColorLut.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRPassthrough/UHT/OculusXRPassthrough.init.gen.cpp \
+  Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRPassthrough/UHT/OculusXRPassthroughColorLut.gen.cpp \
+  ../../../../../../../../../Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Public/OculusXRPassthroughColorLut.h \
   Runtime/Core/Public/CoreMinimal.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
   Runtime/Engine/Classes/Engine/Texture2D.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRPassthrough/UHT/OculusXRPassthroughColorLut.generated.h \
   Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Public/OculusXRPassthroughLayerComponent.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRPassthrough/UHT/OculusXRPassthroughLayerComponent.gen.cpp \
+  ../../../../../../../../../Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Public/OculusXRPassthroughLayerComponent.h \
   Runtime/Engine/Classes/Engine/StaticMeshActor.h \
   Runtime/Engine/Classes/GameFramework/Actor.h \
   Runtime/Engine/Classes/AI/Navigation/NavigationTypes.h \
@@ -2119,6 +2122,7 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRPassthroughLayerShapes.generated.h \
   Runtime/CoreUObject/Public/Templates/IsUEnumClass.h \
   Runtime/CoreUObject/Public/UObject/ReflectedTypeAccessors.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Public/OculusXRPassthroughColorLut.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRHMDRuntimeSettings.h \
   Runtime/CoreUObject/Public/UObject/Object.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRHMDTypes.h \
@@ -2154,6 +2158,8 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRFunctionLibrary.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRHMDRuntimeSettings.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRPassthrough/UHT/OculusXRPassthroughLayerComponent.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Private/OculusXRPassthroughColorLut.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Public/OculusXRPassthroughLayerComponent.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDPrivate.h \
   Runtime/Engine/Classes/GameFramework/WorldSettings.h \
   Runtime/Engine/Public/StereoRendering.h \

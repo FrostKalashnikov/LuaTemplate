@@ -2094,36 +2094,42 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/istream \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRMR/Module.OculusXRMR.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRMR/Definitions.OculusXRMR.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMRFunctionLibrary.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Public/OculusXRMRFunctionLibrary.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMR.init.gen.cpp \
+  Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMRFunctionLibrary.gen.cpp \
+  ../../../../../../../../Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Public/OculusXRMRFunctionLibrary.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
   Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMRFunctionLibrary.generated.h \
   Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMRPrivate.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Public/IOculusXRMRModule.h \
-  Runtime/Core/Public/Modules/ModuleManager.h \
-  Runtime/Core/Public/CoreMinimal.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRPluginWrapper.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Types.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Insight.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_MixedReality.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Media.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMRModule.h \
-  Runtime/Engine/Classes/Engine/EngineBaseTypes.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMR_CastingCameraActor.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMR_CastingCameraActor.gen.cpp \
+  ../../../../../../../../Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMR_CastingCameraActor.h \
   Runtime/Engine/Classes/Engine/SceneCapture2D.h \
+  Runtime/Core/Public/CoreMinimal.h \
   Runtime/Engine/Classes/Engine/SceneCapture.h \
   Runtime/Engine/Classes/GameFramework/Actor.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/SceneCapture.generated.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/SceneCapture2D.generated.h \
   Runtime/AudioPlatformConfiguration/Public/AudioResampler.h \
   Runtime/AudioMixerCore/Public/AudioDefines.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRPluginWrapper.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Types.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Insight.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_MixedReality.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Media.h \
   Runtime/Engine/Classes/Materials/MaterialInstanceDynamic.h \
   Runtime/AudioMixerCore/Public/AudioMixer.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMR_CastingCameraActor.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMR_State.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMR_PlaneMeshComponent.gen.cpp \
+  ../../../../../../../../Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMR_PlaneMeshComponent.h \
+  Runtime/Engine/Classes/Components/MeshComponent.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMR_PlaneMeshComponent.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMR_Settings.gen.cpp \
+  ../../../../../../../../Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Public/OculusXRMR_Settings.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMR_Settings.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMR_State.gen.cpp \
+  ../../../../../../../../Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMR_State.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRFunctionLibrary.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRHMDTypes.h \
   Runtime/RHI/Public/RHI.h Runtime/RHI/Public/RHIResources.h \
@@ -2131,6 +2137,7 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/CoreUObject/Public/UObject/SoftObjectPath.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRHMDTypes.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/IOculusXRHMDModule.h \
+  Runtime/Core/Public/Modules/ModuleManager.h \
   Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayModule.h \
   Runtime/Core/Public/Modules/ModuleInterface.h \
   Runtime/Core/Public/Misc/ConfigCacheIni.h \
@@ -2157,6 +2164,14 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   ../Intermediate/Build/Android/UnrealGame/Inc/HeadMountedDisplay/UHT/HeadMountedDisplayTypes.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRFunctionLibrary.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMR_State.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMRFunctionLibrary.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Public/OculusXRMRFunctionLibrary.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMRPrivate.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Public/IOculusXRMRModule.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMRModule.h \
+  Runtime/Engine/Classes/Engine/EngineBaseTypes.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMR_CastingCameraActor.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMR_State.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDModule.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDPrivate.h \
@@ -2190,7 +2205,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_Layer.h \
   ../Plugins/Runtime/ProceduralMeshComponent/Source/ProceduralMeshComponent/Public/ProceduralMeshComponent.h \
   Runtime/Engine/Classes/Interfaces/Interface_CollisionDataProvider.h \
-  Runtime/Engine/Classes/Components/MeshComponent.h \
   ../Plugins/Runtime/ProceduralMeshComponent/Intermediate/Build/Android/UnrealGame/Inc/ProceduralMeshComponent/UHT/ProceduralMeshComponent.generated.h \
   Runtime/Engine/Classes/PhysicsEngine/ConvexElem.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_Splash.h \
@@ -2375,7 +2389,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/Engine/Classes/Particles/WorldPSCPool.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/GameplayStatics.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Public/OculusXRMR_Settings.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMR_Settings.generated.h \
   Runtime/Engine/Public/AudioDevice.h \
   Runtime/Engine/Public/AudioDeviceHandle.h \
   Runtime/Engine/Public/AudioDynamicParameter.h \
@@ -2476,7 +2489,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   ThirdParty/Vulkan/Include/vulkan/vulkan_android.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMR_CastingCameraActor.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Private/OculusXRMR_PlaneMeshComponent.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMR/UHT/OculusXRMR_PlaneMeshComponent.generated.h \
   Runtime/Engine/Classes/Components/StaticMeshComponent.h \
   Runtime/CoreUObject/Public/UObject/ConstructorHelpers.h \
   Runtime/Engine/Public/Rendering/Texture2DResource.h \

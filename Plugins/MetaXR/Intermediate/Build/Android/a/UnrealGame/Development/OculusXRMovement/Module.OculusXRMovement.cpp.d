@@ -2094,7 +2094,8 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/istream \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRMovement/Module.OculusXRMovement.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Development/OculusXRMovement/Definitions.OculusXRMovement.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/LiveLinkOculusXRMovementSourceFactory.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/LiveLinkOculusXRMovementSourceFactory.gen.cpp \
+  Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/LiveLinkOculusXRMovementSourceFactory.h \
   Runtime/LiveLinkInterface/Public/LiveLinkSourceFactory.h \
   Runtime/Core/Public/Containers/UnrealString.h \
@@ -2109,6 +2110,46 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkInterface/UHT/LiveLinkSourceFactory.generated.h \
   Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/LiveLinkOculusXRMovementSourceFactory.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRBodyTrackingComponent.gen.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRBodyTrackingComponent.h \
+  Runtime/Engine/Classes/Components/PoseableMeshComponent.h \
+  Runtime/Engine/Public/BoneContainer.h \
+  Runtime/Engine/Classes/Components/SkinnedMeshComponent.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/PoseableMeshComponent.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovementTypes.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementTypes.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRBodyTrackingComponent.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXREyeTrackingComponent.gen.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXREyeTrackingComponent.h \
+  Runtime/Engine/Classes/Components/ActorComponent.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXREyeTrackingComponent.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRFaceTrackingComponent.gen.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRFaceTrackingComponent.h \
+  Runtime/Engine/Classes/Components/SkeletalMeshComponent.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMorphTargetsController.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRFaceTrackingComponent.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetBodyAsset.gen.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRLiveLinkRetargetBodyAsset.h \
+  Runtime/LiveLinkAnimationCore/Public/LiveLinkRetargetAsset.h \
+  Runtime/Core/Public/Containers/Map.h \
+  Runtime/Core/Public/UObject/NameTypes.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkAnimationCore/UHT/LiveLinkRetargetAsset.generated.h \
+  Runtime/Core/Public/Containers/StaticArray.h \
+  Runtime/Engine/Public/BonePose.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetBodyAsset.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetFaceAsset.gen.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRLiveLinkRetargetFaceAsset.h \
+  Runtime/Engine/Public/Animation/AnimTypes.h \
+  Runtime/Core/Public/Misc/EngineVersionComparison.h \
+  Runtime/Launch/Resources/Version.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetFaceAsset.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovement.init.gen.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementFunctionLibrary.gen.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovementFunctionLibrary.h \
+  Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementFunctionLibrary.generated.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementTypes.gen.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/LiveLinkOculusXRMovementSourceFactory.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/IOculusXRMovementModule.h \
   Runtime/Core/Public/Modules/ModuleManager.h \
   Runtime/Core/Public/Features/IModularFeatures.h \
@@ -2120,7 +2161,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/LiveLinkInterface/Public/LiveLinkTypes.h \
   Runtime/Core/Public/Concepts/GetTypeHashable.h \
   Runtime/Core/Public/Containers/Array.h \
-  Runtime/Core/Public/Containers/Map.h \
   Runtime/Core/Public/HAL/PlatformTime.h \
   Runtime/Core/Public/HAL/UnrealMemory.h \
   Runtime/Core/Public/Math/Transform.h \
@@ -2136,7 +2176,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/Core/Public/Templates/UnrealTemplate.h \
   Runtime/Core/Public/Templates/UnrealTypeTraits.h \
   Runtime/CoreUObject/Public/UObject/Class.h \
-  Runtime/Core/Public/UObject/NameTypes.h \
   Runtime/Core/Public/UObject/PropertyPortFlags.h \
   Runtime/CoreUObject/Public/UObject/StructOnScope.h \
   Runtime/Core/Public/UObject/UnrealNames.h \
@@ -2146,14 +2185,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/LiveLinkInterface/Public/LiveLinkPresetTypes.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkInterface/UHT/LiveLinkPresetTypes.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRBodyTrackingComponent.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRBodyTrackingComponent.h \
-  Runtime/Engine/Classes/Components/PoseableMeshComponent.h \
-  Runtime/Engine/Public/BoneContainer.h \
-  Runtime/Engine/Classes/Components/SkinnedMeshComponent.h \
-  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/PoseableMeshComponent.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovementTypes.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementTypes.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRBodyTrackingComponent.generated.h \
   Runtime/Engine/Classes/Engine/SkeletalMesh.h \
   Runtime/Engine/Public/DrawDebugHelpers.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD.h \
@@ -2171,7 +2202,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/CoreUObject/Public/Templates/IsUEnumClass.h \
   Runtime/CoreUObject/Public/UObject/ReflectedTypeAccessors.h \
   Runtime/InputCore/Classes/InputCoreTypes.h \
-  Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
   Runtime/Core/Public/Logging/LogCategory.h \
   Runtime/Core/Public/Logging/LogMacros.h \
   Runtime/Core/Public/Math/IntRect.h Runtime/Core/Public/Math/Quat.h \
@@ -2189,8 +2219,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/Engine/Public/StereoLayerShapes.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRPassthroughMesh.h \
   Runtime/Core/Public/Templates/RefCounting.h \
-  Runtime/Core/Public/Misc/EngineVersionComparison.h \
-  Runtime/Launch/Resources/Version.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRPassthroughLayerShapes.generated.h \
   Runtime/Engine/Public/StereoRendering.h \
   Runtime/Core/Public/HAL/RunnableThread.h \
@@ -2298,32 +2326,17 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/RenderCore/Public/Shader.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_FoveatedRendering.h \
   Runtime/Renderer/Public/VariableRateShadingImageManager.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovementFunctionLibrary.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementFunctionLibrary.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementLog.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRTelemetryMovementEvents.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRTelemetry.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRQPL.h \
   Runtime/Core/Public/Misc/DateTime.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXREyeTrackingComponent.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXREyeTrackingComponent.h \
-  Runtime/Engine/Classes/Components/ActorComponent.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXREyeTrackingComponent.generated.h \
   Runtime/Engine/Classes/GameFramework/PlayerController.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovementHelpers.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRFaceTrackingComponent.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRFaceTrackingComponent.h \
-  Runtime/Engine/Classes/Components/SkeletalMeshComponent.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMorphTargetsController.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRFaceTrackingComponent.generated.h \
   Runtime/Core/Public/Math/UnrealMathUtility.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRLiveLinkRetargetBodyAsset.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRLiveLinkRetargetBodyAsset.h \
-  Runtime/LiveLinkAnimationCore/Public/LiveLinkRetargetAsset.h \
-  ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkAnimationCore/UHT/LiveLinkRetargetAsset.generated.h \
-  Runtime/Core/Public/Containers/StaticArray.h \
-  Runtime/Engine/Public/BonePose.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetBodyAsset.generated.h \
   Runtime/Core/Public/Algo/Accumulate.h \
   Runtime/Core/Public/Templates/Invoke.h \
   Runtime/Core/Public/Algo/ForEach.h \
@@ -2331,9 +2344,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkInterface/UHT/LiveLinkAnimationTypes.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovement.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRLiveLinkRetargetFaceAsset.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRLiveLinkRetargetFaceAsset.h \
-  Runtime/Engine/Public/Animation/AnimTypes.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetFaceAsset.generated.h \
   Runtime/Engine/Public/Animation/AnimCurveTypes.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMorphTargetsController.cpp \
   Runtime/Engine/Public/AnimationRuntime.h \
