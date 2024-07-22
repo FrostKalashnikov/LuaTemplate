@@ -52,7 +52,7 @@ template<> OCULUSXRSCENE_API UScriptStruct* StaticStruct<FSceneTypesPlaceholder>
 		sizeof(FSceneTypesPlaceholder),
 		alignof(FSceneTypesPlaceholder),
 		RF_Public|RF_Transient|RF_MarkAsNative,
-		EStructFlags(0x00000001),
+		EStructFlags(0x00000201),
 		METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FSceneTypesPlaceholder_Statics::Struct_MetaDataParams), Z_Construct_UScriptStruct_FSceneTypesPlaceholder_Statics::Struct_MetaDataParams)
 	};
 	UScriptStruct* Z_Construct_UScriptStruct_FSceneTypesPlaceholder()
@@ -68,9 +68,9 @@ template<> OCULUSXRSCENE_API UScriptStruct* StaticStruct<FSceneTypesPlaceholder>
 		static const FStructRegisterCompiledInInfo ScriptStructInfo[];
 	};
 	const FStructRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneTypes_h_Statics::ScriptStructInfo[] = {
-		{ FSceneTypesPlaceholder::StaticStruct, Z_Construct_UScriptStruct_FSceneTypesPlaceholder_Statics::NewStructOps, TEXT("SceneTypesPlaceholder"), &Z_Registration_Info_UScriptStruct_SceneTypesPlaceholder, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FSceneTypesPlaceholder), 4214710216U) },
+		{ FSceneTypesPlaceholder::StaticStruct, Z_Construct_UScriptStruct_FSceneTypesPlaceholder_Statics::NewStructOps, TEXT("SceneTypesPlaceholder"), &Z_Registration_Info_UScriptStruct_SceneTypesPlaceholder, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FSceneTypesPlaceholder), 438142522U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneTypes_h_4063567226(TEXT("/Script/OculusXRScene"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneTypes_h_1878161610(TEXT("/Script/OculusXRScene"),
 		nullptr, 0,
 		Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneTypes_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneTypes_h_Statics::ScriptStructInfo),
 		nullptr, 0);

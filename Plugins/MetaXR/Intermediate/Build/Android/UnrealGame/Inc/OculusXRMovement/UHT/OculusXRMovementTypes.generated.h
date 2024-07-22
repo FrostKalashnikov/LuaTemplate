@@ -14,42 +14,42 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define OCULUSXRMOVEMENT_OculusXRMovementTypes_generated_h
 
-#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_116_GENERATED_BODY \
+#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_117_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXRBodyJoint_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> OCULUSXRMOVEMENT_API UScriptStruct* StaticStruct<struct FOculusXRBodyJoint>();
 
-#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_135_GENERATED_BODY \
+#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_136_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXRBodyState_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> OCULUSXRMOVEMENT_API UScriptStruct* StaticStruct<struct FOculusXRBodyState>();
 
-#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_251_GENERATED_BODY \
+#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_253_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXRFaceState_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> OCULUSXRMOVEMENT_API UScriptStruct* StaticStruct<struct FOculusXRFaceState>();
 
-#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_277_GENERATED_BODY \
+#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_279_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXRFaceExpressionModifier_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> OCULUSXRMOVEMENT_API UScriptStruct* StaticStruct<struct FOculusXRFaceExpressionModifier>();
 
-#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_305_GENERATED_BODY \
+#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_307_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXREyeGazeState_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> OCULUSXRMOVEMENT_API UScriptStruct* StaticStruct<struct FOculusXREyeGazeState>();
 
-#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_325_GENERATED_BODY \
+#define FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_327_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FOculusXREyeGazesState_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -162,7 +162,8 @@ template<> OCULUSXRMOVEMENT_API UEnum* StaticEnum<EOculusXRBodyTrackingFidelity>
 	op(EOculusXRBoneID::BodyRightFootSubtalar) \
 	op(EOculusXRBoneID::BodyRightFootTransverse) \
 	op(EOculusXRBoneID::BodyRightFootBall) \
-	op(EOculusXRBoneID::COUNT) 
+	op(EOculusXRBoneID::COUNT) \
+	op(EOculusXRBoneID::None) 
 
 enum class EOculusXRBoneID : uint8;
 template<> struct TIsUEnumClass<EOculusXRBoneID> { enum { Value = true }; };

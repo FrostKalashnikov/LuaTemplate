@@ -1874,8 +1874,8 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Slate/Public/SlateSharedPCH.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/LuaTemplate/Shipping/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/LuaTemplate/Shipping/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h \
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/initializer_list \
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__config \
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/features.h \
@@ -2091,11 +2091,11 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRPassthroughLayerShapes.gen.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRPassthroughLayerShapes.h \
+  Runtime/Core/Public/Misc/EngineVersionComparison.h \
+  Runtime/Launch/Resources/Version.h \
   Runtime/Engine/Public/StereoLayerShapes.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRPassthroughMesh.h \
   Runtime/Core/Public/Templates/RefCounting.h \
-  Runtime/Core/Public/Misc/EngineVersionComparison.h \
-  Runtime/Launch/Resources/Version.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRPassthroughLayerShapes.generated.h \
   Runtime/CoreUObject/Public/Templates/IsUEnumClass.h \
   Runtime/CoreUObject/Public/UObject/ReflectedTypeAccessors.h \
@@ -2442,25 +2442,4 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   ../Plugins/Runtime/AndroidPermission/Source/AndroidPermission/Classes/AndroidPermissionCallbackProxy.h \
   ../Plugins/Runtime/AndroidPermission/Intermediate/Build/Android/UnrealGame/Inc/AndroidPermission/UHT/AndroidPermissionCallbackProxy.generated.h \
   Runtime/RenderCore/Public/OculusShaders.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Public/IOculusXRMRModule.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDModule.cpp \
-  Runtime/Core/Public/Containers/StringConv.h \
-  Runtime/Core/Public/Misc/Paths.h \
-  Runtime/Core/Public/Android/AndroidPlatformMisc.h \
-  Runtime/Projects/Public/Interfaces/IPluginManager.h \
-  Runtime/Projects/Public/PluginDescriptor.h \
-  Runtime/Projects/Public/CustomBuildSteps.h \
-  Runtime/Json/Public/Serialization/JsonWriter.h \
-  Runtime/Projects/Public/LocalizationDescriptor.h \
-  Runtime/Projects/Public/ModuleDescriptor.h \
-  Runtime/Core/Public/UObject/UnrealNames.h \
-  Runtime/Projects/Public/PluginReferenceDescriptor.h \
-  Runtime/Projects/Public/VerseScope.h \
-  Runtime/Core/Public/Containers/VersePathFwd.h \
-  Runtime/RenderCore/Public/ShaderCore.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRTelemetry.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRQPL.h \
-  Runtime/Core/Public/Misc/DateTime.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDPrivate.cpp \
-  Runtime/RenderCore/Public/RenderingThread.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDRuntimeSettings.cpp
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMR/Public/IOculusXRMRModule.h

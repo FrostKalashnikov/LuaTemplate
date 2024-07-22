@@ -267,6 +267,7 @@
 /I "Runtime\MediaUtils\Public"
 /I "Runtime\OpenGLDrv\Public"
 /I "Runtime\VulkanRHI\Public"
+/I "C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Source\ThirdParty\KhronosOpenXR\include"
 /I "Runtime\Windows\D3D11RHI\Public"
 /I "Runtime\D3D12RHI\Public"
 /I "..\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private"

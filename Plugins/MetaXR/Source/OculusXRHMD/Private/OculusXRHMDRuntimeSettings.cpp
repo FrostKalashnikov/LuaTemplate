@@ -44,6 +44,7 @@ UOculusXRHMDRuntimeSettings::UOculusXRHMDRuntimeSettings(const FObjectInitialize
 	bAnchorSupportEnabled = DefaultSettings.Flags.bAnchorSupportEnabled;
 	bAnchorSharingEnabled = DefaultSettings.Flags.bAnchorSharingEnabled;
 	bSceneSupportEnabled = DefaultSettings.Flags.bSceneSupportEnabled;
+	bIterativeCookOnTheFly = DefaultSettings.Flags.bIterativeCookOnTheFly;
 	ProcessorFavor = DefaultSettings.ProcessorFavor;
 	bTileTurnOffEnabled = DefaultSettings.Flags.bTileTurnOffEnabled;
 
@@ -87,6 +88,8 @@ UOculusXRHMDRuntimeSettings::UOculusXRHMDRuntimeSettings(const FObjectInitialize
 	bAnchorSupportEnabled = false;
 	bAnchorSharingEnabled = false;
 	bSceneSupportEnabled = false;
+	MPPoseRestoreType = EOculusXRMPPoseRestoreType::None;
+	bIterativeCookOnTheFly = false;
 	ProcessorFavor = EProcessorFavor::FavorEqually;
 	bTileTurnOffEnabled = false;
 #endif
@@ -110,7 +113,8 @@ bool UOculusXRHMDRuntimeSettings::CanEditChange(const FProperty* InProperty) con
 
 // Disable settings for marketplace release that are only compatible with the Oculus engine fork
 #ifndef WITH_OCULUS_BRANCH
-		if (PropertyName == GET_MEMBER_NAME_CHECKED(UOculusXRHMDRuntimeSettings, FoveatedRenderingMethod) || PropertyName == GET_MEMBER_NAME_CHECKED(UOculusXRHMDRuntimeSettings, bSupportEyeTrackedFoveatedRendering))
+		if (PropertyName == GET_MEMBER_NAME_CHECKED(UOculusXRHMDRuntimeSettings, FoveatedRenderingMethod) || PropertyName == GET_MEMBER_NAME_CHECKED(UOculusXRHMDRuntimeSettings, bSupportEyeTrackedFoveatedRendering) || PropertyName == GET_MEMBER_NAME_CHECKED(UOculusXRHMDRuntimeSettings, bDynamicResolution))
+
 		{
 			bIsEditable = false;
 		}

@@ -6,8 +6,11 @@
 			"OculusXRPassthroughColorLut.gen.cpp.obj",
 			"OculusXRPassthroughLayerComponent.gen.cpp.obj",
 			"OculusXRPassthroughColorLut.cpp.obj",
+			"OculusXRPassthroughLayer.cpp.obj",
 			"OculusXRPassthroughLayerComponent.cpp.obj",
-			"OculusXRPassthroughModule.cpp.obj"
+			"OculusXRPassthroughModule.cpp.obj",
+			"OculusXRPassthroughXR.cpp.obj",
+			"OculusXRPassthroughXRFunctions.cpp.obj"
 		]
 	}
 }

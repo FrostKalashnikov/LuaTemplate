@@ -58,7 +58,7 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRSceneSubsystem() {}
 		0,
 		0,
 		0,
-		0x000000A0u,
+		0x001000A0u,
 		METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UOculusXRSceneSubsystem_Statics::Class_MetaDataParams), Z_Construct_UClass_UOculusXRSceneSubsystem_Statics::Class_MetaDataParams)
 	};
 	UClass* Z_Construct_UClass_UOculusXRSceneSubsystem()
@@ -80,9 +80,9 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRSceneSubsystem() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRScene_Public_OculusXRSceneSubsystem_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UOculusXRSceneSubsystem, UOculusXRSceneSubsystem::StaticClass, TEXT("UOculusXRSceneSubsystem"), &Z_Registration_Info_UClass_UOculusXRSceneSubsystem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRSceneSubsystem), 2063768425U) },
+		{ Z_Construct_UClass_UOculusXRSceneSubsystem, UOculusXRSceneSubsystem::StaticClass, TEXT("UOculusXRSceneSubsystem"), &Z_Registration_Info_UClass_UOculusXRSceneSubsystem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRSceneSubsystem), 3355200318U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRScene_Public_OculusXRSceneSubsystem_h_2385303143(TEXT("/Script/OculusXRScene"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRScene_Public_OculusXRSceneSubsystem_h_107851565(TEXT("/Script/OculusXRScene"),
 		Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRScene_Public_OculusXRSceneSubsystem_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRScene_Public_OculusXRSceneSubsystem_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

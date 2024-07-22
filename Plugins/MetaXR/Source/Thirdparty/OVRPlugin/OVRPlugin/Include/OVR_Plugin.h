@@ -457,6 +457,14 @@ OVRP_EXPORT ovrpResult ovrp_GetControllerSampleRateHz(ovrpController controller,
 /// Sets the haptics buffer state for the given controllers.
 OVRP_EXPORT ovrpResult ovrp_SetControllerHaptics2(ovrpController controllerMask, ovrpHapticsBuffer hapticsBuffer);
 
+// Action State Functions
+
+
+
+
+
+
+
 /// Sets the suggested CPU performance level
 OVRP_EXPORT ovrpResult ovrp_SetSuggestedCpuPerformanceLevel(ovrpProcessorPerformanceLevel perfLevel);
 
@@ -722,6 +730,8 @@ OVRP_EXPORT ovrpResult ovrp_GetViewportStencil(
     ovrpUInt16* indices,
     int* indexCount);
 
+OVRP_EXPORT ovrpResult ovrp_SetDeveloperTelemetryConsent(ovrpBool consent);
+
 OVRP_EXPORT ovrpResult ovrp_SendEvent(const char* eventName, const char* param);
 
 OVRP_EXPORT ovrpResult ovrp_SendEvent2(const char* eventName, const char* param, const char* source);
@@ -775,6 +785,10 @@ OVRP_EXPORT ovrpResult ovrp_IsWideMotionModeHandPosesEnabled(ovrpBool* enabled);
 
 
 
+
+
+
+
 OVRP_EXPORT ovrpResult ovrp_SetMultimodalHandsControllersSupported(ovrpBool supported);
 OVRP_EXPORT ovrpResult ovrp_IsMultimodalHandsControllersSupported(ovrpBool* supported);
 OVRP_EXPORT ovrpResult
@@ -783,6 +797,9 @@ ovrp_GetCurrentDetachedInteractionProfile(ovrpHand hand, ovrpInteractionProfile*
 OVRP_EXPORT ovrpResult ovrp_GetHandTrackingEnabled(ovrpBool* handTrackingEnabled);
 OVRP_EXPORT ovrpResult ovrp_GetHandState(ovrpStep step, ovrpHand hand, ovrpHandState* handState);
 OVRP_EXPORT ovrpResult ovrp_GetHandState2(ovrpStep step, int frameIndex, ovrpHand hand, ovrpHandState* handState);
+
+
+
 
 
 
@@ -805,6 +822,9 @@ OVRP_EXPORT ovrpResult ovrp_StartFaceTracking();
 OVRP_EXPORT ovrpResult ovrp_StopFaceTracking();
 OVRP_EXPORT ovrpResult ovrp_GetFaceTracking2Enabled(ovrpBool* faceTracking2Enabled);
 OVRP_EXPORT ovrpResult ovrp_GetFaceTracking2Supported(ovrpBool* faceTracking2Supported);
+
+
+
 OVRP_EXPORT ovrpResult ovrp_StartFaceTracking2(
     const ovrpFaceTrackingDataSource2* const requestedDataSources,
     unsigned int requestedDataSourcesCount);
@@ -884,6 +904,19 @@ OVRP_EXPORT ovrpResult ovrp_QplMarkerPoint(int markerId, const char* name, int i
 OVRP_EXPORT ovrpResult ovrp_QplMarkerPointCached(int markerId, int nameHandle, int instanceKey, ovrpInt64 timestampMs);
 OVRP_EXPORT ovrpResult
 ovrp_QplMarkerAnnotation(int markerId, const char* annotationKey, const char* annotationValue, int instanceKey);
+OVRP_EXPORT ovrpResult ovrp_QplMarkerAnnotationVariant(
+    int markerId,
+    const char* annotationKey,
+    const ovrpQplVariant* annotationValue,
+    int instanceKey);
+OVRP_EXPORT ovrpResult ovrp_QplMarkerPointData(
+    int markerId,
+    const char* name,
+    const ovrpQplAnnotation* annotations,
+    int annotationCount,
+    int instanceKey,
+    ovrpInt64 timestampMs);
+
 OVRP_EXPORT ovrpResult ovrp_QplCreateMarkerHandle(const char* name, int* nameHandle);
 OVRP_EXPORT ovrpResult ovrp_QplDestroyMarkerHandle(int nameHandle);
 OVRP_EXPORT ovrpResult ovrp_OnEditorShutdown();
@@ -1031,6 +1064,10 @@ OVRP_EXPORT ovrpResult ovrp_GetFaceState(ovrpStep step, int frameIndex, ovrpFace
 
 OVRP_EXPORT ovrpResult ovrp_GetFaceState2(ovrpStep step, int frameIndex, ovrpFaceState2* faceState);
 
+
+
+
+
 OVRP_EXPORT ovrpResult ovrp_GetEyeTrackingEnabled(ovrpBool* eyeTrackingEnabled);
 
 OVRP_EXPORT ovrpResult ovrp_GetEyeTrackingSupported(ovrpBool* eyeTrackingSupported);
@@ -1113,21 +1150,18 @@ OVRP_EXPORT ovrpResult ovrp_GetEyeLayerRecommendedResolution(ovrpSizei* recommen
 
 
 
+OVRP_EXPORT ovrpResult ovrp_DiscoverSpaces(const ovrpSpaceDiscoveryInfo* info, ovrpUInt64* requestId);
 
+OVRP_EXPORT ovrpResult ovrp_RetrieveSpaceDiscoveryResults(ovrpUInt64 requestId, ovrpSpaceDiscoveryResults* results);
 
+OVRP_EXPORT ovrpResult ovrp_SaveSpaces(ovrpUInt32 spaceCount, const ovrpSpace* spaces, ovrpUInt64* requestId);
 
-
-
-
-
-
-
-
-
-
-
-
-
+OVRP_EXPORT ovrpResult ovrp_EraseSpaces(
+    ovrpUInt32 spaceCount,
+    const ovrpSpace* spaces,
+    ovrpUInt32 uuidCount,
+    const ovrpUuid* uuids,
+    ovrpUInt64* requestId);
 
 
 
@@ -1155,6 +1189,30 @@ OVRP_EXPORT ovrpResult ovrp_SetEnvironmentDepthHandRemoval(ovrpBool enabled);
 OVRP_EXPORT ovrpResult ovrp_StartEnvironmentDepth();
 OVRP_EXPORT ovrpResult ovrp_StopEnvironmentDepth();
 OVRP_EXPORT ovrpResult ovrp_GetEnvironmentDepthFrameDesc(ovrpEye eyeId, ovrpEnvironmentDepthFrameDesc* frameDesc);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #ifdef __cplusplus
 }

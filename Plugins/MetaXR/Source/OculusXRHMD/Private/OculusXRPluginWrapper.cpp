@@ -208,6 +208,7 @@ bool OculusPluginWrapper::InitializeOculusPluginWrapper(OculusPluginWrapper* wra
 		OCULUS_BIND_ENTRY_POINT(AutoThreadScheduling),
 		OCULUS_BIND_ENTRY_POINT(GetGPUFrameTime),
 		OCULUS_BIND_ENTRY_POINT(GetViewportStencil),
+		OCULUS_BIND_ENTRY_POINT(SetDeveloperTelemetryConsent),
 		OCULUS_BIND_ENTRY_POINT(SendEvent),
 		OCULUS_BIND_ENTRY_POINT(SendEvent2),
 		OCULUS_BIND_ENTRY_POINT(AddCustomMetadata),
@@ -258,6 +259,7 @@ bool OculusPluginWrapper::InitializeOculusPluginWrapper(OculusPluginWrapper* wra
 
 		// Anchors
 		OCULUS_BIND_ENTRY_POINT(LocateSpace),
+		OCULUS_BIND_ENTRY_POINT(LocateSpace2),
 		OCULUS_BIND_ENTRY_POINT(CreateSpatialAnchor),
 		OCULUS_BIND_ENTRY_POINT(DestroySpace),
 		OCULUS_BIND_ENTRY_POINT(SetSpaceComponentStatus),
@@ -273,6 +275,11 @@ bool OculusPluginWrapper::InitializeOculusPluginWrapper(OculusPluginWrapper* wra
 		OCULUS_BIND_ENTRY_POINT(CreateSpaceUser),
 		OCULUS_BIND_ENTRY_POINT(DestroySpaceUser),
 
+		// Anchors 2.0 (APD)
+		OCULUS_BIND_ENTRY_POINT(DiscoverSpaces),
+		OCULUS_BIND_ENTRY_POINT(RetrieveSpaceDiscoveryResults),
+		OCULUS_BIND_ENTRY_POINT(SaveSpaces),
+		OCULUS_BIND_ENTRY_POINT(EraseSpaces),
 
 		// Scene
 		OCULUS_BIND_ENTRY_POINT(GetSpaceContainer),

@@ -213,6 +213,7 @@ struct OculusPluginWrapper
 	OCULUS_DECLARE_ENTRY_POINT(AutoThreadScheduling);
 	OCULUS_DECLARE_ENTRY_POINT(GetGPUFrameTime);
 	OCULUS_DECLARE_ENTRY_POINT(GetViewportStencil);
+	OCULUS_DECLARE_ENTRY_POINT(SetDeveloperTelemetryConsent);
 	OCULUS_DECLARE_ENTRY_POINT(SendEvent);
 	OCULUS_DECLARE_ENTRY_POINT(SendEvent2);
 	OCULUS_DECLARE_ENTRY_POINT(AddCustomMetadata);
@@ -264,6 +265,7 @@ struct OculusPluginWrapper
 
 	// Anchors
 	OCULUS_DECLARE_ENTRY_POINT(LocateSpace);
+	OCULUS_DECLARE_ENTRY_POINT(LocateSpace2);
 	OCULUS_DECLARE_ENTRY_POINT(CreateSpatialAnchor);
 	OCULUS_DECLARE_ENTRY_POINT(DestroySpace);
 	OCULUS_DECLARE_ENTRY_POINT(SetSpaceComponentStatus);
@@ -279,6 +281,11 @@ struct OculusPluginWrapper
 	OCULUS_DECLARE_ENTRY_POINT(CreateSpaceUser);
 	OCULUS_DECLARE_ENTRY_POINT(DestroySpaceUser);
 
+	// Anchors 2.0 (APD)
+	OCULUS_DECLARE_ENTRY_POINT(DiscoverSpaces);
+	OCULUS_DECLARE_ENTRY_POINT(RetrieveSpaceDiscoveryResults);
+	OCULUS_DECLARE_ENTRY_POINT(SaveSpaces);
+	OCULUS_DECLARE_ENTRY_POINT(EraseSpaces);
 
 	// Scene
 	OCULUS_DECLARE_ENTRY_POINT(GetSpaceContainer);

@@ -57,7 +57,7 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRSceneEventDelegates() {}
 		0,
 		0,
 		0,
-		0x000000A0u,
+		0x001000A0u,
 		METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UOculusXRSceneEventDelegates_Statics::Class_MetaDataParams), Z_Construct_UClass_UOculusXRSceneEventDelegates_Statics::Class_MetaDataParams)
 	};
 	UClass* Z_Construct_UClass_UOculusXRSceneEventDelegates()
@@ -80,9 +80,9 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRSceneEventDelegates() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneEventDelegates_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UOculusXRSceneEventDelegates, UOculusXRSceneEventDelegates::StaticClass, TEXT("UOculusXRSceneEventDelegates"), &Z_Registration_Info_UClass_UOculusXRSceneEventDelegates, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRSceneEventDelegates), 1690726390U) },
+		{ Z_Construct_UClass_UOculusXRSceneEventDelegates, UOculusXRSceneEventDelegates::StaticClass, TEXT("UOculusXRSceneEventDelegates"), &Z_Registration_Info_UClass_UOculusXRSceneEventDelegates, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRSceneEventDelegates), 3999993887U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneEventDelegates_h_4260896049(TEXT("/Script/OculusXRScene"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneEventDelegates_h_1824185809(TEXT("/Script/OculusXRScene"),
 		Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneEventDelegates_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneEventDelegates_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

@@ -9,6 +9,3 @@
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXREventComponent.cpp"
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRFunctionLibrary.cpp"
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD.cpp"
-#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDModule.cpp"
-#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDPrivate.cpp"
-#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDRuntimeSettings.cpp"

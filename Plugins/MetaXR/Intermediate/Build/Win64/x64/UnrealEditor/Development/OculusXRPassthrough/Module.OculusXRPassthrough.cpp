@@ -3,5 +3,8 @@
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Win64/UnrealEditor/Inc/OculusXRPassthrough/UHT/OculusXRPassthroughColorLut.gen.cpp"
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Win64/UnrealEditor/Inc/OculusXRPassthrough/UHT/OculusXRPassthroughLayerComponent.gen.cpp"
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Private/OculusXRPassthroughColorLut.cpp"
+#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Private/OculusXRPassthroughLayer.cpp"
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Private/OculusXRPassthroughLayerComponent.cpp"
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Private/OculusXRPassthroughModule.cpp"
+#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Private/OculusXRPassthroughXR.cpp"
+#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRPassthrough/Private/OculusXRPassthroughXRFunctions.cpp"

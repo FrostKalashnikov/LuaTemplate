@@ -66,10 +66,12 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRSceneGlobalMeshComponent() {}
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UOculusXRSceneGlobalMeshComponent_Statics::Class_MetaDataParams[] = {
 		{ "BlueprintSpawnableComponent", "" },
+		{ "Comment", "/**\n* DEPRECATED: AOculusXRSceneActor and associated classes are deprecated (v65), please use MR Utility Kit instead\n* (https://developer.oculus.com/documentation/unreal/unreal-mr-utility-kit-overview)\n*/" },
 		{ "DisplayName", "OculusXR Scene Global Mesh Component" },
 		{ "IncludePath", "OculusXRSceneGlobalMeshComponent.h" },
 		{ "ModuleRelativePath", "Public/OculusXRSceneGlobalMeshComponent.h" },
 		{ "ObjectInitializerConstructorDeclared", "" },
+		{ "ToolTip", "DEPRECATED: AOculusXRSceneActor and associated classes are deprecated (v65), please use MR Utility Kit instead\n(https://developer.oculus.com/documentation/unreal/unreal-mr-utility-kit-overview)" },
 	};
 #endif
 #if WITH_METADATA
@@ -160,9 +162,9 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRSceneGlobalMeshComponent() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRScene_Public_OculusXRSceneGlobalMeshComponent_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UOculusXRSceneGlobalMeshComponent, UOculusXRSceneGlobalMeshComponent::StaticClass, TEXT("UOculusXRSceneGlobalMeshComponent"), &Z_Registration_Info_UClass_UOculusXRSceneGlobalMeshComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRSceneGlobalMeshComponent), 1570141378U) },
+		{ Z_Construct_UClass_UOculusXRSceneGlobalMeshComponent, UOculusXRSceneGlobalMeshComponent::StaticClass, TEXT("UOculusXRSceneGlobalMeshComponent"), &Z_Registration_Info_UClass_UOculusXRSceneGlobalMeshComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRSceneGlobalMeshComponent), 806177585U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRScene_Public_OculusXRSceneGlobalMeshComponent_h_2416641053(TEXT("/Script/OculusXRScene"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRScene_Public_OculusXRSceneGlobalMeshComponent_h_1611710824(TEXT("/Script/OculusXRScene"),
 		Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRScene_Public_OculusXRSceneGlobalMeshComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRScene_Public_OculusXRSceneGlobalMeshComponent_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

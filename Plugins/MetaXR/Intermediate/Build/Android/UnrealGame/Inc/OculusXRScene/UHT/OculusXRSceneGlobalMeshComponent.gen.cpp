@@ -66,10 +66,16 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRSceneGlobalMeshComponent() {}
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UOculusXRSceneGlobalMeshComponent_Statics::Class_MetaDataParams[] = {
 		{ "BlueprintSpawnableComponent", "" },
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "/**\n* DEPRECATED: AOculusXRSceneActor and associated classes are deprecated (v65), please use MR Utility Kit instead\n* (https://developer.oculus.com/documentation/unreal/unreal-mr-utility-kit-overview)\n*/" },
+#endif
 		{ "DisplayName", "OculusXR Scene Global Mesh Component" },
 		{ "IncludePath", "OculusXRSceneGlobalMeshComponent.h" },
 		{ "ModuleRelativePath", "Public/OculusXRSceneGlobalMeshComponent.h" },
 		{ "ObjectInitializerConstructorDeclared", "" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "DEPRECATED: AOculusXRSceneActor and associated classes are deprecated (v65), please use MR Utility Kit instead\n(https://developer.oculus.com/documentation/unreal/unreal-mr-utility-kit-overview)" },
+#endif
 	};
 #endif
 #if WITH_METADATA
@@ -160,9 +166,9 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRSceneGlobalMeshComponent() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneGlobalMeshComponent_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UOculusXRSceneGlobalMeshComponent, UOculusXRSceneGlobalMeshComponent::StaticClass, TEXT("UOculusXRSceneGlobalMeshComponent"), &Z_Registration_Info_UClass_UOculusXRSceneGlobalMeshComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRSceneGlobalMeshComponent), 1570141378U) },
+		{ Z_Construct_UClass_UOculusXRSceneGlobalMeshComponent, UOculusXRSceneGlobalMeshComponent::StaticClass, TEXT("UOculusXRSceneGlobalMeshComponent"), &Z_Registration_Info_UClass_UOculusXRSceneGlobalMeshComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRSceneGlobalMeshComponent), 1706098849U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneGlobalMeshComponent_h_2416641053(TEXT("/Script/OculusXRScene"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneGlobalMeshComponent_h_210292448(TEXT("/Script/OculusXRScene"),
 		Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneGlobalMeshComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRScene_Public_OculusXRSceneGlobalMeshComponent_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

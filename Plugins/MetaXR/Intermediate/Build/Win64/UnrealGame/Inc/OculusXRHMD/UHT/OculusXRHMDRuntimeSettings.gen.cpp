@@ -22,6 +22,7 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRHMDRuntimeSettings() {}
 	OCULUSXRHMD_API UEnum* Z_Construct_UEnum_OculusXRHMD_EOculusXRHandTrackingFrequency();
 	OCULUSXRHMD_API UEnum* Z_Construct_UEnum_OculusXRHMD_EOculusXRHandTrackingSupport();
 	OCULUSXRHMD_API UEnum* Z_Construct_UEnum_OculusXRHMD_EOculusXRHandTrackingVersion();
+	OCULUSXRHMD_API UEnum* Z_Construct_UEnum_OculusXRHMD_EOculusXRMPPoseRestoreType();
 	OCULUSXRHMD_API UEnum* Z_Construct_UEnum_OculusXRHMD_EOculusXRProcessorPerformanceLevel();
 	OCULUSXRHMD_API UEnum* Z_Construct_UEnum_OculusXRHMD_EOculusXRSupportedDevices();
 	OCULUSXRHMD_API UEnum* Z_Construct_UEnum_OculusXRHMD_EOculusXRXrApi();
@@ -152,6 +153,11 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRHMDRuntimeSettings() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_MetaXRJsonPath_MetaData[];
 #endif
 		static const UECodeGen_Private::FStructPropertyParams NewProp_MetaXRJsonPath;
+		static const UECodeGen_Private::FBytePropertyParams NewProp_MPPoseRestoreType_Underlying;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_MPPoseRestoreType_MetaData[];
+#endif
+		static const UECodeGen_Private::FEnumPropertyParams NewProp_MPPoseRestoreType;
 #if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_bDynamicResolution_MetaData[];
 #endif
@@ -290,6 +296,11 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRHMDRuntimeSettings() {}
 #endif
 		static void NewProp_bDeploySoToDevice_SetBit(void* Obj);
 		static const UECodeGen_Private::FBoolPropertyParams NewProp_bDeploySoToDevice;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_bIterativeCookOnTheFly_MetaData[];
+#endif
+		static void NewProp_bIterativeCookOnTheFly_SetBit(void* Obj);
+		static const UECodeGen_Private::FBoolPropertyParams NewProp_bIterativeCookOnTheFly;
 #if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_bSupportExperimentalFeatures_MetaData[];
 #endif
@@ -438,6 +449,17 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRHMDRuntimeSettings() {}
 	};
 #endif
 	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_MetaXRJsonPath = { "MetaXRJsonPath", nullptr, (EPropertyFlags)0x0010000000004001, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UOculusXRHMDRuntimeSettings, MetaXRJsonPath), Z_Construct_UScriptStruct_FFilePath, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_MetaXRJsonPath_MetaData), Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_MetaXRJsonPath_MetaData) };
+	const UECodeGen_Private::FBytePropertyParams Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_MPPoseRestoreType_Underlying = { "UnderlyingType", nullptr, (EPropertyFlags)0x0000000000000000, UECodeGen_Private::EPropertyGenFlags::Byte, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, 0, nullptr, METADATA_PARAMS(0, nullptr) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_MPPoseRestoreType_MetaData[] = {
+		{ "Category", "PC" },
+		{ "Comment", "/**\n\x09In case of multiple players, when the primary player, which is connected to the HMD, is changed, this setting determins how to restore the previous player's head pose\n\x09*/" },
+		{ "DisplayName", "MultiPlayer Pose Restore Type." },
+		{ "ModuleRelativePath", "Public/OculusXRHMDRuntimeSettings.h" },
+		{ "ToolTip", "In case of multiple players, when the primary player, which is connected to the HMD, is changed, this setting determins how to restore the previous player's head pose" },
+	};
+#endif
+	const UECodeGen_Private::FEnumPropertyParams Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_MPPoseRestoreType = { "MPPoseRestoreType", nullptr, (EPropertyFlags)0x0010000000004001, UECodeGen_Private::EPropertyGenFlags::Enum, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UOculusXRHMDRuntimeSettings, MPPoseRestoreType), Z_Construct_UEnum_OculusXRHMD_EOculusXRMPPoseRestoreType, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_MPPoseRestoreType_MetaData), Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_MPPoseRestoreType_MetaData) }; // 2003709075
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bDynamicResolution_MetaData[] = {
 		{ "Category", "Mobile|Dynamic Resolution" },
@@ -785,6 +807,20 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRHMDRuntimeSettings() {}
 	}
 	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bDeploySoToDevice = { "bDeploySoToDevice", nullptr, (EPropertyFlags)0x0010000000004001, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(UOculusXRHMDRuntimeSettings), &Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bDeploySoToDevice_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bDeploySoToDevice_MetaData), Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bDeploySoToDevice_MetaData) };
 #if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bIterativeCookOnTheFly_MetaData[] = {
+		{ "Category", "Mobile" },
+		{ "Comment", "/** Keep previously deployed device contents. Allows cook-on-the-fly to reuse assets from previous runs. */" },
+		{ "DisplayName", "Enable Iterative Cook on the Fly" },
+		{ "ModuleRelativePath", "Public/OculusXRHMDRuntimeSettings.h" },
+		{ "ToolTip", "Keep previously deployed device contents. Allows cook-on-the-fly to reuse assets from previous runs." },
+	};
+#endif
+	void Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bIterativeCookOnTheFly_SetBit(void* Obj)
+	{
+		((UOculusXRHMDRuntimeSettings*)Obj)->bIterativeCookOnTheFly = 1;
+	}
+	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bIterativeCookOnTheFly = { "bIterativeCookOnTheFly", nullptr, (EPropertyFlags)0x0010000000004001, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(UOculusXRHMDRuntimeSettings), &Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bIterativeCookOnTheFly_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bIterativeCookOnTheFly_MetaData), Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bIterativeCookOnTheFly_MetaData) };
+#if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bSupportExperimentalFeatures_MetaData[] = {
 		{ "Category", "Experimental" },
 		{ "Comment", "/** Whether experimental features listed below can be used with the app. */" },
@@ -839,6 +875,8 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRHMDRuntimeSettings() {}
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bCompositesDepth,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bHQDistortion,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_MetaXRJsonPath,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_MPPoseRestoreType_Underlying,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_MPPoseRestoreType,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bDynamicResolution,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_PixelDensityMin,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_PixelDensityMax,
@@ -878,6 +916,7 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRHMDRuntimeSettings() {}
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_FaceTrackingDataSource_ElementProp,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_FaceTrackingDataSource,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bDeploySoToDevice,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bIterativeCookOnTheFly,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_bSupportExperimentalFeatures,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_ProcessorFavor_Underlying,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRHMDRuntimeSettings_Statics::NewProp_ProcessorFavor,
@@ -925,9 +964,9 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRHMDRuntimeSettings() {}
 		{ EOculusXRSupportedDevices_StaticEnum, TEXT("EOculusXRSupportedDevices"), &Z_Registration_Info_UEnum_EOculusXRSupportedDevices, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 3111328996U) },
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRHMD_Public_OculusXRHMDRuntimeSettings_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UOculusXRHMDRuntimeSettings, UOculusXRHMDRuntimeSettings::StaticClass, TEXT("UOculusXRHMDRuntimeSettings"), &Z_Registration_Info_UClass_UOculusXRHMDRuntimeSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRHMDRuntimeSettings), 3534693257U) },
+		{ Z_Construct_UClass_UOculusXRHMDRuntimeSettings, UOculusXRHMDRuntimeSettings::StaticClass, TEXT("UOculusXRHMDRuntimeSettings"), &Z_Registration_Info_UClass_UOculusXRHMDRuntimeSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRHMDRuntimeSettings), 1954575422U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRHMD_Public_OculusXRHMDRuntimeSettings_h_24027552(TEXT("/Script/OculusXRHMD"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRHMD_Public_OculusXRHMDRuntimeSettings_h_3939864932(TEXT("/Script/OculusXRHMD"),
 		Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRHMD_Public_OculusXRHMDRuntimeSettings_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRHMD_Public_OculusXRHMDRuntimeSettings_h_Statics::ClassInfo),
 		nullptr, 0,
 		Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRHMD_Public_OculusXRHMDRuntimeSettings_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRHMD_Public_OculusXRHMDRuntimeSettings_h_Statics::EnumInfo));

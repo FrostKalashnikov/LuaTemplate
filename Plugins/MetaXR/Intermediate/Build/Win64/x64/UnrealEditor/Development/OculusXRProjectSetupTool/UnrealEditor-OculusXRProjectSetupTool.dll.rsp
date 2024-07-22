@@ -34,7 +34,7 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\LuaTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
 "C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRProjectSetupTool\Module.OculusXRProjectSetupTool.cpp.obj"
 "C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRProjectSetupTool\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Projects\UnrealEditor-Projects.lib"
@@ -55,6 +55,7 @@
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\WorkspaceMenuStructure\UnrealEditor-WorkspaceMenuStructure.lib"
 "..\Plugins\Editor\PluginBrowser\Intermediate\Build\Win64\x64\UnrealEditor\Development\PluginBrowser\UnrealEditor-PluginBrowser.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToolMenus\UnrealEditor-ToolMenus.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RHI\UnrealEditor-RHI.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"

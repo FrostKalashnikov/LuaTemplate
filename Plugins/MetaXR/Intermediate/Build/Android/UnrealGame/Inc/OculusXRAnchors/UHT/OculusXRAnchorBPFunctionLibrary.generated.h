@@ -16,6 +16,7 @@ class UOculusXRBaseAnchorComponent;
 enum class EOculusXRSpaceComponentType : uint8;
 enum class EOculusXRSpaceStorageLocation : uint8;
 enum class ESpawnActorCollisionHandlingMethod : uint8;
+struct FOculusXRAnchorLocationFlags;
 struct FOculusXRRoomLayout;
 struct FOculusXRSpaceQueryResult;
 struct FOculusXRUInt64;
@@ -38,6 +39,7 @@ struct FOculusXRUUID;
 	DECLARE_FUNCTION(execStringToAnchorUUID); \
 	DECLARE_FUNCTION(execAnchorUUIDToString); \
 	DECLARE_FUNCTION(execAnchorHandleToString); \
+	DECLARE_FUNCTION(execTryGetAnchorTransformByHandle); \
 	DECLARE_FUNCTION(execGetAnchorTransformByHandle); \
 	DECLARE_FUNCTION(execGetAnchorComponentStatus); \
 	DECLARE_FUNCTION(execSpawnActorWithAnchorQueryResults); \

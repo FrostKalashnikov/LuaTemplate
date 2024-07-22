@@ -118,6 +118,7 @@ namespace OculusXRRenderingRules
 		virtual void ApplyImpl(bool& OutShouldRestartEditor) override;
 	};
 
+#ifdef WITH_OCULUS_BRANCH
 	class FEnableDynamicResolutionRule final : public ISetupRule
 	{
 	public:
@@ -133,6 +134,7 @@ namespace OculusXRRenderingRules
 	protected:
 		virtual void ApplyImpl(bool& OutShouldRestartEditor) override;
 	};
+#endif
 
 	class FDisableLensFlareRule final : public ISetupRule
 	{
@@ -267,6 +269,20 @@ namespace OculusXRRenderingRules
 		virtual void ApplyImpl(bool& OutShouldRestartEditor) override;
 	};
 
+	class FUseAndroidVulkanPreviewPlatform final : public ISetupRule
+	{
+	public:
+		FUseAndroidVulkanPreviewPlatform();
+		virtual bool IsApplied() const override;
+		virtual bool IsValid() override;
+
+	protected:
+		virtual void ApplyImpl(bool& OutShouldRestartEditor) override;
+
+	private:
+		FPreviewPlatformInfo AndroidVulkanPreview;
+	};
+
 	// All defined rendering rules. Add new rules to this table for them to be auto-registered
 	inline TArray<SetupRulePtr> RenderingRules_Table{
 		MakeShared<FUseVulkanRule>(),
@@ -276,7 +292,9 @@ namespace OculusXRRenderingRules
 		MakeShared<FEnableMSAARule>(),
 		MakeShared<FEnableOcclusionCullingRule>(),
 		MakeShared<FEnableDynamicFoveationRule>(),
+#ifdef WITH_OCULUS_BRANCH
 		MakeShared<FEnableDynamicResolutionRule>(),
+#endif
 		MakeShared<FDisableLensFlareRule>(),
 		MakeShared<FDisablePostProcessingRule>(),
 		MakeShared<FDisableAmbientOcclusionRule>(),
@@ -284,6 +302,7 @@ namespace OculusXRRenderingRules
 		MakeShared<FEnableStaticLightingRule>(),
 		MakeShared<FDisableMobileShaderStaticAndCSMShadowReceiversRule>(),
 		MakeShared<FDisableMobileShaderAllowDistanceFieldShadowsRule>(),
-		MakeShared<FDisableMobileShaderAllowMovableDirectionalLightsRule>()
+		MakeShared<FDisableMobileShaderAllowMovableDirectionalLightsRule>(),
+		MakeShared<FUseAndroidVulkanPreviewPlatform>()
 	};
 } // namespace OculusXRRenderingRules

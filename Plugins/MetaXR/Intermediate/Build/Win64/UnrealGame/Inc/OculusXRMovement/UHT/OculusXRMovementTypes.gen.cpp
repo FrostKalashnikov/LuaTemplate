@@ -242,6 +242,7 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRMovementTypes() {}
 		{ "EOculusXRBoneID::BodyRightFootTransverse", (int64)EOculusXRBoneID::BodyRightFootTransverse },
 		{ "EOculusXRBoneID::BodyRightFootBall", (int64)EOculusXRBoneID::BodyRightFootBall },
 		{ "EOculusXRBoneID::COUNT", (int64)EOculusXRBoneID::COUNT },
+		{ "EOculusXRBoneID::None", (int64)EOculusXRBoneID::None },
 	};
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UEnum_OculusXRMovement_EOculusXRBoneID_Statics::Enum_MetaDataParams[] = {
@@ -333,6 +334,8 @@ void EmptyLinkFunctionForGeneratedCodeOculusXRMovementTypes() {}
 		{ "COUNT.Hidden", "" },
 		{ "COUNT.Name", "EOculusXRBoneID::COUNT" },
 		{ "ModuleRelativePath", "Public/OculusXRMovementTypes.h" },
+		{ "None.Hidden", "" },
+		{ "None.Name", "EOculusXRBoneID::None" },
 	};
 #endif
 	const UECodeGen_Private::FEnumParams Z_Construct_UEnum_OculusXRMovement_EOculusXRBoneID_Statics::EnumParams = {
@@ -1395,7 +1398,7 @@ template<> OCULUSXRMOVEMENT_API UScriptStruct* StaticStruct<FOculusXREyeGazesSta
 	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_Statics::EnumInfo[] = {
 		{ EOculusXRBodyJointSet_StaticEnum, TEXT("EOculusXRBodyJointSet"), &Z_Registration_Info_UEnum_EOculusXRBodyJointSet, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2067536671U) },
 		{ EOculusXRBodyTrackingFidelity_StaticEnum, TEXT("EOculusXRBodyTrackingFidelity"), &Z_Registration_Info_UEnum_EOculusXRBodyTrackingFidelity, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 945995407U) },
-		{ EOculusXRBoneID_StaticEnum, TEXT("EOculusXRBoneID"), &Z_Registration_Info_UEnum_EOculusXRBoneID, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1163501635U) },
+		{ EOculusXRBoneID_StaticEnum, TEXT("EOculusXRBoneID"), &Z_Registration_Info_UEnum_EOculusXRBoneID, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2550275467U) },
 		{ EFaceTrackingDataSource_StaticEnum, TEXT("EFaceTrackingDataSource"), &Z_Registration_Info_UEnum_EFaceTrackingDataSource, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 513968845U) },
 		{ EOculusXRFaceExpression_StaticEnum, TEXT("EOculusXRFaceExpression"), &Z_Registration_Info_UEnum_EOculusXRFaceExpression, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 3931067710U) },
 		{ EOculusXRFaceConfidence_StaticEnum, TEXT("EOculusXRFaceConfidence"), &Z_Registration_Info_UEnum_EOculusXRFaceConfidence, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1123681469U) },
@@ -1409,7 +1412,7 @@ template<> OCULUSXRMOVEMENT_API UScriptStruct* StaticStruct<FOculusXREyeGazesSta
 		{ FOculusXREyeGazeState::StaticStruct, Z_Construct_UScriptStruct_FOculusXREyeGazeState_Statics::NewStructOps, TEXT("OculusXREyeGazeState"), &Z_Registration_Info_UScriptStruct_OculusXREyeGazeState, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FOculusXREyeGazeState), 1594859235U) },
 		{ FOculusXREyeGazesState::StaticStruct, Z_Construct_UScriptStruct_FOculusXREyeGazesState_Statics::NewStructOps, TEXT("OculusXREyeGazesState"), &Z_Registration_Info_UScriptStruct_OculusXREyeGazesState, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FOculusXREyeGazesState), 2280488769U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_175890946(TEXT("/Script/OculusXRMovement"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_1129602068(TEXT("/Script/OculusXRMovement"),
 		nullptr, 0,
 		Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_Statics::ScriptStructInfo),
 		Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_OculusXR_Source_OculusXRMovement_Public_OculusXRMovementTypes_h_Statics::EnumInfo));

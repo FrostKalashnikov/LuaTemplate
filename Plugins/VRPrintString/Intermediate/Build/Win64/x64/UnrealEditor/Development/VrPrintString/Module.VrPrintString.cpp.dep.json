@@ -3,7 +3,7 @@
     "Data": {
         "Source": "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\vrprintstring\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrprintstring\\module.vrprintstring.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\intermediate\\build\\win64\\x64\\luatemplateeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\intermediate\\build\\win64\\x64\\seleneeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
         "Includes": [
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\vrprintstring\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrprintstring\\definitions.vrprintstring.h",
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\vrprintstring\\intermediate\\build\\win64\\unrealeditor\\inc\\vrprintstring\\uht\\vrprintstring.init.gen.cpp",

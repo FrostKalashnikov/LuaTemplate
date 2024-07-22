@@ -3,7 +3,7 @@
     "Data": {
         "Source": "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxrhmd\\module.oculusxrhmd.2.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\intermediate\\build\\win64\\x64\\luatemplateeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\intermediate\\build\\win64\\x64\\seleneeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.inclorderunreal5_0.h.pch",
         "Includes": [
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxrhmd\\definitions.oculusxrhmd.h",
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdtypes.gen.cpp",
@@ -11,9 +11,9 @@
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdtypes.generated.h",
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrpassthroughlayershapes.gen.cpp",
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrpassthroughlayershapes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\stereolayershapes.h",
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrpassthroughmesh.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\engineversioncomparison.h",
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrpassthroughlayershapes.generated.h",
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrresourceholder.gen.cpp",
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\private\\oculusxrresourceholder.h",
@@ -393,19 +393,7 @@
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\rendercore\\public\\oculusshaders.h",
             "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxrmr\\public\\ioculusxrmrmodule.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\debug\\debugdrawservice.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\debugdrawservice.generated.h",
-            "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\private\\oculusxrhmdmodule.cpp",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
-            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\projects\\public\\versescope.h",
-            "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrtelemetry.h",
-            "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrqpl.h",
-            "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\private\\oculusxrhmdprivate.cpp",
-            "c:\\users\\michel\\documents\\unreal projects\\luatemplate\\plugins\\metaxr\\source\\oculusxrhmd\\private\\oculusxrhmdruntimesettings.cpp"
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\debugdrawservice.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

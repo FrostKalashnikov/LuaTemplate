@@ -16,8 +16,6 @@
 			"OculusXRPlatformToolWidget.cpp.obj",
 			"OculusXRPrivacyNotification.cpp.obj",
 			"OculusXRSettingsToggle.cpp.obj",
-			"OculusXRSimulator.cpp.obj",
-			"OculusXRSyntheticEnvironmentServer.cpp.obj",
 			"OculusXRToolCommands.cpp.obj",
 			"OculusXRToolStyle.cpp.obj"
 		]

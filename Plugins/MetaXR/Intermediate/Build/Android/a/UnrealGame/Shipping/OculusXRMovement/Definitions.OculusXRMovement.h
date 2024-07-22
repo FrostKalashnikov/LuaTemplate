@@ -1,4 +1,4 @@
-#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Intermediate/Build/Android/a/LuaTemplate/Shipping/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h"
+#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -13,8 +13,8 @@
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 1
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_2 1
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_3 1
-#define UE_PROJECT_NAME LuaTemplate
-#define UE_TARGET_NAME LuaTemplate
+#define UE_PROJECT_NAME Selene
+#define UE_TARGET_NAME Selene
 #define UE_MODULE_NAME "OculusXRMovement"
 #define UE_PLUGIN_NAME "OculusXR"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

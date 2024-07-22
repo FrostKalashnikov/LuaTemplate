@@ -16,7 +16,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define FID_HostProject_Plugins_OculusXR_Source_OculusXRScene_Public_OculusXRSceneTypes_h_10_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSceneTypesPlaceholder_Statics; \
-	OCULUSXRSCENE_API static class UScriptStruct* StaticStruct();
+	static class UScriptStruct* StaticStruct();
 
 
 template<> OCULUSXRSCENE_API UScriptStruct* StaticStruct<struct FSceneTypesPlaceholder>();

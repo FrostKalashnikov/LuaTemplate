@@ -25,6 +25,7 @@ enum class EOculusXRTrackedDeviceType : uint8;
 struct FLinearColor;
 struct FOculusXRGuardianTestResult;
 struct FOculusXRHmdUserProfile;
+struct FOculusXRPerformanceMetrics;
 #ifdef OCULUSXRHMD_OculusXRFunctionLibrary_generated_h
 #error "OculusXRFunctionLibrary.generated.h already included, missing '#pragma once' in OculusXRFunctionLibrary.h"
 #endif
@@ -70,6 +71,7 @@ struct FOculusXRHmdUserProfile;
 	DECLARE_FUNCTION(execGetFoveatedRenderingLevel); \
 	DECLARE_FUNCTION(execSetFoveatedRenderingMethod); \
 	DECLARE_FUNCTION(execGetFoveatedRenderingMethod); \
+	DECLARE_FUNCTION(execGetPerformanceMetrics); \
 	DECLARE_FUNCTION(execGetGPUFrameTime); \
 	DECLARE_FUNCTION(execGetGPUUtilization); \
 	DECLARE_FUNCTION(execHasSystemOverlayPresent); \

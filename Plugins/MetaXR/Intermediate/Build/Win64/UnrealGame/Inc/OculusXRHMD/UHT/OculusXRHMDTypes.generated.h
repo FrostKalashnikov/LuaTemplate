@@ -42,6 +42,13 @@ template<> OCULUSXRHMD_API UScriptStruct* StaticStruct<struct FOculusXRGuardianT
 
 template<> OCULUSXRHMD_API UScriptStruct* StaticStruct<struct FOculusXRSplashDesc>();
 
+#define FID_HostProject_Plugins_OculusXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h_366_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FOculusXRPerformanceMetrics_Statics; \
+	OCULUSXRHMD_API static class UScriptStruct* StaticStruct();
+
+
+template<> OCULUSXRHMD_API UScriptStruct* StaticStruct<struct FOculusXRPerformanceMetrics>();
+
 #undef CURRENT_FILE_ID
 #define CURRENT_FILE_ID FID_HostProject_Plugins_OculusXR_Source_OculusXRHMD_Public_OculusXRHMDTypes_h
 
@@ -243,5 +250,14 @@ template<> OCULUSXRHMD_API UEnum* StaticEnum<EFaceTrackingDataSourceConfig>();
 enum class ESystemSplashBackgroundType : int8;
 template<> struct TIsUEnumClass<ESystemSplashBackgroundType> { enum { Value = true }; };
 template<> OCULUSXRHMD_API UEnum* StaticEnum<ESystemSplashBackgroundType>();
+
+#define FOREACH_ENUM_EOCULUSXRMPPOSERESTORETYPE(op) \
+	op(EOculusXRMPPoseRestoreType::Disabled) \
+	op(EOculusXRMPPoseRestoreType::PositionOnly) \
+	op(EOculusXRMPPoseRestoreType::PositionAndRotation) 
+
+enum class EOculusXRMPPoseRestoreType : uint8;
+template<> struct TIsUEnumClass<EOculusXRMPPoseRestoreType> { enum { Value = true }; };
+template<> OCULUSXRHMD_API UEnum* StaticEnum<EOculusXRMPPoseRestoreType>();
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

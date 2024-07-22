@@ -1874,8 +1874,8 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Slate/Public/SlateSharedPCH.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/LuaTemplate/Shipping/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/LuaTemplate/Shipping/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h \
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/initializer_list \
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__config \
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/features.h \
@@ -2079,8 +2079,8 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/istream \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Shipping/OculusXRHMD/Module.OculusXRHMD.3.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Shipping/OculusXRHMD/Definitions.OculusXRHMD.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_ConsoleCommands.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_ConsoleCommands.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDModule.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDModule.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDPrivate.h \
   Runtime/Engine/Classes/GameFramework/WorldSettings.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/IOculusXRHMDModule.h \
@@ -2121,11 +2121,11 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRHMDTypes.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRFunctionLibrary.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRPassthroughLayerShapes.h \
+  Runtime/Core/Public/Misc/EngineVersionComparison.h \
+  Runtime/Launch/Resources/Version.h \
   Runtime/Engine/Public/StereoLayerShapes.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRPassthroughMesh.h \
   Runtime/Core/Public/Templates/RefCounting.h \
-  Runtime/Core/Public/Misc/EngineVersionComparison.h \
-  Runtime/Launch/Resources/Version.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRPassthroughLayerShapes.generated.h \
   Runtime/Engine/Public/StereoRendering.h \
   Runtime/Core/Public/HAL/RunnableThread.h \
@@ -2135,14 +2135,12 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Insight.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_MixedReality.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Media.h \
-  Runtime/Core/Public/HAL/IConsoleManager.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDModule.h \
   Runtime/HeadMountedDisplay/Public/IHeadMountedDisplay.h \
   Runtime/HeadMountedDisplay/Public/LateUpdateManager.h \
   Runtime/Engine/Public/SceneInterface.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_VulkanExtensions.h \
   Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayVulkanExtensions.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_Settings.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_GameFrame.h \
   Runtime/Engine/Public/ShowFlags.h \
@@ -2165,6 +2163,8 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/HeadMountedDisplay/Public/IXRLoadingScreen.h \
   Runtime/RenderCore/Public/TickableObjectRenderThread.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_StressTester.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_ConsoleCommands.h \
+  Runtime/Core/Public/HAL/IConsoleManager.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_SpectatorScreenController.h \
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/DefaultSpectatorScreenController.h \
   Runtime/HeadMountedDisplay/Public/ISpectatorScreenController.h \
@@ -2239,6 +2239,60 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/RenderCore/Public/Shader.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_FoveatedRendering.h \
   Runtime/Renderer/Public/VariableRateShadingImageManager.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDPrivateRHI.h \
+  Runtime/VulkanRHI/Public/IVulkanDynamicRHI.h \
+  ThirdParty/Vulkan/Include/vulkan/vulkan.h \
+  ThirdParty/Vulkan/Include/vulkan/vk_platform.h \
+  ThirdParty/Vulkan/Include/vulkan/vulkan_core.h \
+  ThirdParty/Vulkan/Include/vk_video/vulkan_video_codec_h264std.h \
+  ThirdParty/Vulkan/Include/vk_video/vulkan_video_codec_h264std_decode.h \
+  ThirdParty/Vulkan/Include/vk_video/vulkan_video_codec_h265std.h \
+  ThirdParty/Vulkan/Include/vk_video/vulkan_video_codec_h265std_decode.h \
+  ThirdParty/Vulkan/Include/vulkan/vulkan_android.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRHMDRuntimeSettings.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRHMDRuntimeSettings.generated.h \
+  Runtime/Core/Public/Containers/StringConv.h \
+  Runtime/Core/Public/Misc/EngineVersion.h \
+  Runtime/Core/Public/Misc/Paths.h \
+  Runtime/ApplicationCore/Public/Android/AndroidApplication.h \
+  Runtime/ApplicationCore/Public/GenericPlatform/GenericApplication.h \
+  Runtime/ApplicationCore/Public/Android/AndroidWindow.h \
+  Runtime/ApplicationCore/Public/GenericPlatform/GenericWindow.h \
+  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/native_window.h \
+  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/data_space.h \
+  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/inttypes.h \
+  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/inttypes.h \
+  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/inttypes.h \
+  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/inttypes.h \
+  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/hardware_buffer.h \
+  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/rect.h \
+  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/native_window_jni.h \
+  Runtime/Core/Public/Android/AndroidJavaEnv.h \
+  Runtime/Core/Public/CoreTypes.h \
+  Runtime/Core/Public/Android/AndroidPlatformMisc.h \
+  Runtime/Projects/Public/Interfaces/IPluginManager.h \
+  Runtime/Projects/Public/PluginDescriptor.h \
+  Runtime/Core/Public/Containers/Map.h \
+  Runtime/Projects/Public/CustomBuildSteps.h \
+  Runtime/Json/Public/Serialization/JsonWriter.h \
+  Runtime/Projects/Public/LocalizationDescriptor.h \
+  Runtime/Projects/Public/ModuleDescriptor.h \
+  Runtime/Core/Public/HAL/PlatformMisc.h \
+  Runtime/Core/Public/UObject/UnrealNames.h \
+  Runtime/Projects/Public/PluginReferenceDescriptor.h \
+  Runtime/Core/Public/HAL/PlatformCrt.h \
+  Runtime/Core/Public/Misc/Optional.h \
+  Runtime/Projects/Public/VerseScope.h \
+  Runtime/Core/Public/Containers/VersePathFwd.h \
+  Runtime/RenderCore/Public/ShaderCore.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRTelemetry.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRQPL.h \
+  Runtime/Core/Public/Misc/DateTime.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDPrivate.cpp \
+  Runtime/RHI/Public/RHICommandList.h \
+  Runtime/RenderCore/Public/RenderingThread.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDRuntimeSettings.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_ConsoleCommands.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRSceneCaptureCubemap.h \
   Runtime/Engine/Public/Tickable.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRSceneCaptureCubemap.generated.h \
@@ -2250,11 +2304,9 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/RenderCore/Public/ShaderParameterUtils.h \
   Runtime/Engine/Public/SceneView.h \
   Runtime/RenderCore/Public/StereoRenderUtils.h \
-  Runtime/Core/Public/CoreTypes.h \
   Runtime/RHI/Public/PipelineStateCache.h \
   Runtime/RenderCore/Public/ClearQuad.h Runtime/Core/Public/Math/Color.h \
   Runtime/Core/Public/Math/IntPoint.h Runtime/Core/Public/Math/Vector4.h \
-  Runtime/RHI/Public/RHICommandList.h \
   Runtime/RenderCore/Public/OculusShaders.h \
   Runtime/Core/Public/Serialization/MemoryLayout.h \
   Runtime/RenderCore/Public/CommonRenderResources.h \
@@ -2267,36 +2319,10 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/OpenGLDrv/Private/Android/AndroidEGL.h \
   Runtime/Core/Public/Android/AndroidPlatform.h \
   ThirdParty/OpenGL/EGL/egl.h ThirdParty/OpenGL/EGL/eglplatform.h \
-  ThirdParty/OpenGL/KHR/khrplatform.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/native_window.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/data_space.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/inttypes.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/inttypes.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/inttypes.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/inttypes.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/hardware_buffer.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/rect.h \
-  ThirdParty/OpenGL/EGL/eglext.h \
+  ThirdParty/OpenGL/KHR/khrplatform.h ThirdParty/OpenGL/EGL/eglext.h \
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/GLES3/gl31.h \
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/GLES3/gl3platform.h \
-  Runtime/ApplicationCore/Public/Android/AndroidApplication.h \
-  Runtime/ApplicationCore/Public/GenericPlatform/GenericApplication.h \
-  Runtime/ApplicationCore/Public/Android/AndroidWindow.h \
-  Runtime/ApplicationCore/Public/GenericPlatform/GenericWindow.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/native_window_jni.h \
-  Runtime/Core/Public/Android/AndroidJavaEnv.h \
-  Runtime/Core/Public/Android/AndroidPlatformMisc.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_CustomPresent_D3D11.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDPrivateRHI.h \
-  Runtime/VulkanRHI/Public/IVulkanDynamicRHI.h \
-  ThirdParty/Vulkan/Include/vulkan/vulkan.h \
-  ThirdParty/Vulkan/Include/vulkan/vk_platform.h \
-  ThirdParty/Vulkan/Include/vulkan/vulkan_core.h \
-  ThirdParty/Vulkan/Include/vk_video/vulkan_video_codec_h264std.h \
-  ThirdParty/Vulkan/Include/vk_video/vulkan_video_codec_h264std_decode.h \
-  ThirdParty/Vulkan/Include/vk_video/vulkan_video_codec_h265std.h \
-  ThirdParty/Vulkan/Include/vk_video/vulkan_video_codec_h265std_decode.h \
-  ThirdParty/Vulkan/Include/vulkan/vulkan_android.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_CustomPresent_D3D12.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_CustomPresent_Vulkan.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_DeferredDeletionQueue.cpp \
@@ -2306,7 +2332,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_FoveatedRendering.cpp \
   Runtime/RenderCore/Public/RenderGraphBuilder.h \
   Runtime/Core/Public/Containers/ArrayView.h \
-  Runtime/Core/Public/Containers/Map.h \
   Runtime/Core/Public/Containers/Set.h \
   Runtime/Core/Public/Containers/SortedMap.h \
   Runtime/Core/Public/Containers/StridedView.h \
@@ -2320,7 +2345,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/Core/Public/Delegates/IntegerSequence.h \
   Runtime/RenderCore/Public/RenderGraphEvent.h \
   Runtime/Core/Public/Containers/StaticArray.h \
-  Runtime/Core/Public/HAL/PlatformCrt.h \
   Runtime/Core/Public/ProfilingDebugging/CsvProfilerConfig.h \
   Runtime/RenderCore/Public/ProfilingDebugging/RealtimeGPUProfiler.h \
   Runtime/Core/Public/Stats/Stats2.h \
@@ -2349,7 +2373,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/Core/Public/Containers/ContainersFwd.h \
   Runtime/Core/Public/HAL/UnrealMemory.h \
   Runtime/Core/Public/Math/IntVector.h \
-  Runtime/Core/Public/Misc/Optional.h \
   Runtime/Core/Public/Templates/Invoke.h \
   Runtime/RHI/Public/RHIGPUReadback.h \
   Runtime/Renderer/Private/CustomDepthRendering.h \
@@ -2388,10 +2411,7 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/TextureRenderTarget.generated.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/TextureRenderTarget2D.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_Splash.cpp \
-  Runtime/RenderCore/Public/RenderingThread.h \
   Runtime/Core/Public/Misc/ScopeLock.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRHMDRuntimeSettings.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRHMDRuntimeSettings.generated.h \
   Runtime/Engine/Classes/Kismet/StereoLayerFunctionLibrary.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/StereoLayerFunctionLibrary.generated.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_StressTester.cpp \
@@ -2404,8 +2424,6 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRPluginWrapper.cpp \
   C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/dlfcn.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRQPL.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRQPL.h \
-  Runtime/Core/Public/Misc/DateTime.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRResourceHolder.cpp \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRSceneCaptureCubemap.cpp \
   Runtime/ImageWrapper/Public/IImageWrapper.h \
@@ -2445,8 +2463,11 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/SceneCaptureComponent2D.generated.h \
   Runtime/Core/Public/HAL/FileManager.h \
   Runtime/Core/Public/Misc/FileHelper.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRSimulator.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRSimulator.h \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRSyntheticEnvironmentServer.cpp \
+  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRSyntheticEnvironmentServer.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRTelemetry.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRTelemetry.h \
   C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRTelemetryPrivacySettings.h \
   Runtime/Engine/Classes/Engine/ImportantToggleSettingInterface.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/ImportantToggleSettingInterface.generated.h \

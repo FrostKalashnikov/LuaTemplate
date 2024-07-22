@@ -142,7 +142,7 @@ void UOculusXRRoomLayoutManagerComponent::FOculusXRRoomLayoutSceneCaptureComplet
 		static const UECodeGen_Private::FFunctionParams FuncParams;
 	};
 	const UECodeGen_Private::FStructPropertyParams Z_Construct_UFunction_UOculusXRRoomLayoutManagerComponent_GetRoomLayout_Statics::NewProp_Space = { "Space", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(OculusXRRoomLayoutManagerComponent_eventGetRoomLayout_Parms, Space), Z_Construct_UScriptStruct_FOculusXRUInt64, METADATA_PARAMS(0, nullptr) }; // 2105598926
-	const UECodeGen_Private::FStructPropertyParams Z_Construct_UFunction_UOculusXRRoomLayoutManagerComponent_GetRoomLayout_Statics::NewProp_RoomLayoutOut = { "RoomLayoutOut", nullptr, (EPropertyFlags)0x0010000008000180, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(OculusXRRoomLayoutManagerComponent_eventGetRoomLayout_Parms, RoomLayoutOut), Z_Construct_UScriptStruct_FOculusXRRoomLayout, METADATA_PARAMS(0, nullptr) }; // 1295255245
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UFunction_UOculusXRRoomLayoutManagerComponent_GetRoomLayout_Statics::NewProp_RoomLayoutOut = { "RoomLayoutOut", nullptr, (EPropertyFlags)0x0010000008000180, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(OculusXRRoomLayoutManagerComponent_eventGetRoomLayout_Parms, RoomLayoutOut), Z_Construct_UScriptStruct_FOculusXRRoomLayout, METADATA_PARAMS(0, nullptr) }; // 1839477055
 	const UECodeGen_Private::FIntPropertyParams Z_Construct_UFunction_UOculusXRRoomLayoutManagerComponent_GetRoomLayout_Statics::NewProp_MaxWallsCapacity = { "MaxWallsCapacity", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(OculusXRRoomLayoutManagerComponent_eventGetRoomLayout_Parms, MaxWallsCapacity), METADATA_PARAMS(0, nullptr) };
 	void Z_Construct_UFunction_UOculusXRRoomLayoutManagerComponent_GetRoomLayout_Statics::NewProp_ReturnValue_SetBit(void* Obj)
 	{
@@ -377,7 +377,7 @@ void UOculusXRRoomLayoutManagerComponent::FOculusXRRoomLayoutSceneCaptureComplet
 	};
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::DependentSingletons) < 16);
 	const FClassFunctionLinkInfo Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_UOculusXRRoomLayoutManagerComponent_GetRoomLayout, "GetRoomLayout" }, // 3405431793
+		{ &Z_Construct_UFunction_UOculusXRRoomLayoutManagerComponent_GetRoomLayout, "GetRoomLayout" }, // 3869265315
 		{ &Z_Construct_UFunction_UOculusXRRoomLayoutManagerComponent_LaunchCaptureFlow, "LaunchCaptureFlow" }, // 1662766937
 		{ &Z_Construct_UFunction_UOculusXRRoomLayoutManagerComponent_LoadTriangleMesh, "LoadTriangleMesh" }, // 2252740468
 		{ &Z_Construct_UFunction_UOculusXRRoomLayoutManagerComponent_OculusRoomLayoutSceneCaptureComplete_Handler, "OculusRoomLayoutSceneCaptureComplete_Handler" }, // 2005432466
@@ -407,14 +407,14 @@ void UOculusXRRoomLayoutManagerComponent::FOculusXRRoomLayoutSceneCaptureComplet
 	};
 #endif
 	const UECodeGen_Private::FSetPropertyParams Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_EntityRequestList = { "EntityRequestList", nullptr, (EPropertyFlags)0x0020080000002000, UECodeGen_Private::EPropertyGenFlags::Set, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UOculusXRRoomLayoutManagerComponent, EntityRequestList), METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_EntityRequestList_MetaData), Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_EntityRequestList_MetaData) };
-	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_RoomLayouts_ValueProp = { "RoomLayouts", nullptr, (EPropertyFlags)0x0000000000000000, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, 1, Z_Construct_UScriptStruct_FOculusXRRoomLayout, METADATA_PARAMS(0, nullptr) }; // 1295255245
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_RoomLayouts_ValueProp = { "RoomLayouts", nullptr, (EPropertyFlags)0x0000000000000000, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, 1, Z_Construct_UScriptStruct_FOculusXRRoomLayout, METADATA_PARAMS(0, nullptr) }; // 1839477055
 	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_RoomLayouts_Key_KeyProp = { "RoomLayouts_Key", nullptr, (EPropertyFlags)0x0000000000000000, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, 0, Z_Construct_UScriptStruct_FOculusXRUInt64, METADATA_PARAMS(0, nullptr) }; // 2105598926
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_RoomLayouts_MetaData[] = {
 		{ "ModuleRelativePath", "Public/OculusXRRoomLayoutManagerComponent.h" },
 	};
 #endif
-	const UECodeGen_Private::FMapPropertyParams Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_RoomLayouts = { "RoomLayouts", nullptr, (EPropertyFlags)0x0020080000002000, UECodeGen_Private::EPropertyGenFlags::Map, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UOculusXRRoomLayoutManagerComponent, RoomLayouts), EMapPropertyFlags::None, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_RoomLayouts_MetaData), Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_RoomLayouts_MetaData) }; // 2105598926 1295255245
+	const UECodeGen_Private::FMapPropertyParams Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_RoomLayouts = { "RoomLayouts", nullptr, (EPropertyFlags)0x0020080000002000, UECodeGen_Private::EPropertyGenFlags::Map, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(UOculusXRRoomLayoutManagerComponent, RoomLayouts), EMapPropertyFlags::None, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_RoomLayouts_MetaData), Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_RoomLayouts_MetaData) }; // 2105598926 1839477055
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_OculusXRRoomLayoutSceneCaptureComplete,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent_Statics::NewProp_EntityRequestList_ElementProp,
@@ -461,9 +461,9 @@ void UOculusXRRoomLayoutManagerComponent::FOculusXRRoomLayoutSceneCaptureComplet
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRRoomLayoutManagerComponent_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent, UOculusXRRoomLayoutManagerComponent::StaticClass, TEXT("UOculusXRRoomLayoutManagerComponent"), &Z_Registration_Info_UClass_UOculusXRRoomLayoutManagerComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRRoomLayoutManagerComponent), 4292279967U) },
+		{ Z_Construct_UClass_UOculusXRRoomLayoutManagerComponent, UOculusXRRoomLayoutManagerComponent::StaticClass, TEXT("UOculusXRRoomLayoutManagerComponent"), &Z_Registration_Info_UClass_UOculusXRRoomLayoutManagerComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRRoomLayoutManagerComponent), 1871641706U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRRoomLayoutManagerComponent_h_1813789900(TEXT("/Script/OculusXRAnchors"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRRoomLayoutManagerComponent_h_777165506(TEXT("/Script/OculusXRAnchors"),
 		Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRRoomLayoutManagerComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRRoomLayoutManagerComponent_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);

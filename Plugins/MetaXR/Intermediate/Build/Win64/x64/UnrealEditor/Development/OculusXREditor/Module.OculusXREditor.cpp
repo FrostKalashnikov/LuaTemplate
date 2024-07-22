@@ -13,7 +13,5 @@
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXREditor/Private/OculusXRPlatformToolWidget.cpp"
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXREditor/Private/OculusXRPrivacyNotification.cpp"
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXREditor/Private/OculusXRSettingsToggle.cpp"
-#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXREditor/Private/OculusXRSimulator.cpp"
-#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXREditor/Private/OculusXRSyntheticEnvironmentServer.cpp"
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXREditor/Private/OculusXRToolCommands.cpp"
 #include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXREditor/Private/OculusXRToolStyle.cpp"

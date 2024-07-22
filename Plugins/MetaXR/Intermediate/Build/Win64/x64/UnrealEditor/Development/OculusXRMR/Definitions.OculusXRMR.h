@@ -1,4 +1,4 @@
-#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Intermediate/Build/Win64/x64/LuaTemplateEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
+#include "C:/Users/Michel/Documents/Unreal Projects/LuaTemplate/Intermediate/Build/Win64/x64/SeleneEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -13,8 +13,8 @@
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 1
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_2 1
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_3 1
-#define UE_PROJECT_NAME LuaTemplate
-#define UE_TARGET_NAME LuaTemplateEditor
+#define UE_PROJECT_NAME Selene
+#define UE_TARGET_NAME SeleneEditor
 #define UE_MODULE_NAME "OculusXRMR"
 #define UE_PLUGIN_NAME "OculusXR"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

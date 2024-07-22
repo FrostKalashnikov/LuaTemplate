@@ -34,7 +34,7 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\LuaTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
 "C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Module.OculusXREditor.cpp.obj"
 "C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Projects\UnrealEditor-Projects.lib"
@@ -59,6 +59,7 @@
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameProjectGeneration\UnrealEditor-GameProjectGeneration.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\SharedSettingsWidgets\UnrealEditor-SharedSettingsWidgets.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RHI\UnrealEditor-RHI.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\SourceControl\UnrealEditor-SourceControl.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"

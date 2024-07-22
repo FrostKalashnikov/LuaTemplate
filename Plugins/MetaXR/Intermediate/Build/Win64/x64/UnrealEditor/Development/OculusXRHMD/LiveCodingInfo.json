@@ -17,12 +17,12 @@
 			"OculusXRDelegates.cpp.obj",
 			"OculusXREventComponent.cpp.obj",
 			"OculusXRFunctionLibrary.cpp.obj",
-			"OculusXRHMD.cpp.obj",
-			"OculusXRHMDModule.cpp.obj",
-			"OculusXRHMDPrivate.cpp.obj",
-			"OculusXRHMDRuntimeSettings.cpp.obj"
+			"OculusXRHMD.cpp.obj"
 		],
 		"Module.OculusXRHMD.3.cpp.obj": [
+			"OculusXRHMDModule.cpp.obj",
+			"OculusXRHMDPrivate.cpp.obj",
+			"OculusXRHMDRuntimeSettings.cpp.obj",
 			"OculusXRHMD_ConsoleCommands.cpp.obj",
 			"OculusXRHMD_CustomPresent.cpp.obj",
 			"OculusXRHMD_CustomPresent_D3D11.cpp.obj",
@@ -43,6 +43,8 @@
 			"OculusXRQPL.cpp.obj",
 			"OculusXRResourceHolder.cpp.obj",
 			"OculusXRSceneCaptureCubemap.cpp.obj",
+			"OculusXRSimulator.cpp.obj",
+			"OculusXRSyntheticEnvironmentServer.cpp.obj",
 			"OculusXRTelemetry.cpp.obj",
 			"OculusXRTelemetryPrivacySettings.cpp.obj"
 		]
