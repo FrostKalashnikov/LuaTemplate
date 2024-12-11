@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "../../../../../../../../../Users/Michel/Documents/Unreal Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRAnchors/Public/OculusXRAnchorTypes.h"
+#include "D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRAnchors/Public/OculusXRAnchorTypes.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeOculusXRAnchorTypes() {}
 // Cross Module References
@@ -1465,13 +1465,13 @@ template<> OCULUSXRANCHORS_API UScriptStruct* StaticStruct<FOculusXRRoomLayout>(
 		}
 		return Z_Registration_Info_UScriptStruct_OculusXRRoomLayout.InnerSingleton;
 	}
-	struct Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics
+	struct Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics
 	{
 		static const FEnumRegisterCompiledInInfo EnumInfo[];
 		static const FStructRegisterCompiledInInfo ScriptStructInfo[];
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::EnumInfo[] = {
+	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::EnumInfo[] = {
 		{ EOculusXRAnchorResult_StaticEnum, TEXT("EOculusXRAnchorResult"), &Z_Registration_Info_UEnum_EOculusXRAnchorResult, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 3247075732U) },
 		{ EOculusLocationFlags_StaticEnum, TEXT("EOculusLocationFlags"), &Z_Registration_Info_UEnum_EOculusLocationFlags, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2057632783U) },
 		{ EOculusXRSpaceQueryFilterType_StaticEnum, TEXT("EOculusXRSpaceQueryFilterType"), &Z_Registration_Info_UEnum_EOculusXRSpaceQueryFilterType, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2978772482U) },
@@ -1479,7 +1479,7 @@ template<> OCULUSXRANCHORS_API UScriptStruct* StaticStruct<FOculusXRRoomLayout>(
 		{ EOculusXRSpaceStoragePersistenceMode_StaticEnum, TEXT("EOculusXRSpaceStoragePersistenceMode"), &Z_Registration_Info_UEnum_EOculusXRSpaceStoragePersistenceMode, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 750599451U) },
 		{ EOculusXRSpaceComponentType_StaticEnum, TEXT("EOculusXRSpaceComponentType"), &Z_Registration_Info_UEnum_EOculusXRSpaceComponentType, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2303346494U) },
 	};
-	const FStructRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ScriptStructInfo[] = {
+	const FStructRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ScriptStructInfo[] = {
 		{ FOculusXRAnchorLocationFlags::StaticStruct, Z_Construct_UScriptStruct_FOculusXRAnchorLocationFlags_Statics::NewStructOps, TEXT("OculusXRAnchorLocationFlags"), &Z_Registration_Info_UScriptStruct_OculusXRAnchorLocationFlags, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FOculusXRAnchorLocationFlags), 1137151084U) },
 		{ FOculusXRUUID::StaticStruct, Z_Construct_UScriptStruct_FOculusXRUUID_Statics::NewStructOps, TEXT("OculusXRUUID"), &Z_Registration_Info_UScriptStruct_OculusXRUUID, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FOculusXRUUID), 2350961064U) },
 		{ FOculusXRUInt64::StaticStruct, Z_Construct_UScriptStruct_FOculusXRUInt64_Statics::NewStructOps, TEXT("OculusXRUInt64"), &Z_Registration_Info_UScriptStruct_OculusXRUInt64, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FOculusXRUInt64), 2105598926U) },
@@ -1490,13 +1490,13 @@ template<> OCULUSXRANCHORS_API UScriptStruct* StaticStruct<FOculusXRRoomLayout>(
 		{ FOculusXRAnchorsDiscoverResult::StaticStruct, Z_Construct_UScriptStruct_FOculusXRAnchorsDiscoverResult_Statics::NewStructOps, TEXT("OculusXRAnchorsDiscoverResult"), &Z_Registration_Info_UScriptStruct_OculusXRAnchorsDiscoverResult, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FOculusXRAnchorsDiscoverResult), 3114474133U) },
 		{ FOculusXRRoomLayout::StaticStruct, Z_Construct_UScriptStruct_FOculusXRRoomLayout_Statics::NewStructOps, TEXT("OculusXRRoomLayout"), &Z_Registration_Info_UScriptStruct_OculusXRRoomLayout, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FOculusXRRoomLayout), 1839477055U) },
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_UOculusXRSpaceDiscoveryFilterBase, UOculusXRSpaceDiscoveryFilterBase::StaticClass, TEXT("UOculusXRSpaceDiscoveryFilterBase"), &Z_Registration_Info_UClass_UOculusXRSpaceDiscoveryFilterBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRSpaceDiscoveryFilterBase), 305854831U) },
 		{ Z_Construct_UClass_UOculusXRSpaceDiscoveryIdsFilter, UOculusXRSpaceDiscoveryIdsFilter::StaticClass, TEXT("UOculusXRSpaceDiscoveryIdsFilter"), &Z_Registration_Info_UClass_UOculusXRSpaceDiscoveryIdsFilter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRSpaceDiscoveryIdsFilter), 907873288U) },
 		{ Z_Construct_UClass_UOculusXRSpaceDiscoveryComponentsFilter, UOculusXRSpaceDiscoveryComponentsFilter::StaticClass, TEXT("UOculusXRSpaceDiscoveryComponentsFilter"), &Z_Registration_Info_UClass_UOculusXRSpaceDiscoveryComponentsFilter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UOculusXRSpaceDiscoveryComponentsFilter), 3866915449U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_3008732581(TEXT("/Script/OculusXRAnchors"),
-		Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ClassInfo),
-		Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ScriptStructInfo),
-		Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::EnumInfo));
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_3008732581(TEXT("/Script/OculusXRAnchors"),
+		Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ClassInfo),
+		Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::ScriptStructInfo),
+		Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXR_Source_OculusXRAnchors_Public_OculusXRAnchorTypes_h_Statics::EnumInfo));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -2655,11 +2655,11 @@ void EmptyLinkFunctionForGeneratedCodeOVRPlatformEnums() {}
 		}
 		return Z_Registration_Info_UEnum_EOvrVoipSampleRate.InnerSingleton;
 	}
-	struct Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXRPlatform_Source_OVRPlatform_Public_OVRPlatformEnums_h_Statics
+	struct Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXRPlatform_Source_OVRPlatform_Public_OVRPlatformEnums_h_Statics
 	{
 		static const FEnumRegisterCompiledInInfo EnumInfo[];
 	};
-	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXRPlatform_Source_OVRPlatform_Public_OVRPlatformEnums_h_Statics::EnumInfo[] = {
+	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXRPlatform_Source_OVRPlatform_Public_OVRPlatformEnums_h_Statics::EnumInfo[] = {
 		{ EOvrAbuseReportType_StaticEnum, TEXT("EOvrAbuseReportType"), &Z_Registration_Info_UEnum_EOvrAbuseReportType, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 3456442530U) },
 		{ EOvrAccountAgeCategory_StaticEnum, TEXT("EOvrAccountAgeCategory"), &Z_Registration_Info_UEnum_EOvrAccountAgeCategory, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1836042271U) },
 		{ EOvrAchievementType_StaticEnum, TEXT("EOvrAchievementType"), &Z_Registration_Info_UEnum_EOvrAchievementType, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 401348313U) },
@@ -2699,8 +2699,8 @@ void EmptyLinkFunctionForGeneratedCodeOVRPlatformEnums() {}
 		{ EOvrVoipMuteState_StaticEnum, TEXT("EOvrVoipMuteState"), &Z_Registration_Info_UEnum_EOvrVoipMuteState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2695303595U) },
 		{ EOvrVoipSampleRate_StaticEnum, TEXT("EOvrVoipSampleRate"), &Z_Registration_Info_UEnum_EOvrVoipSampleRate, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2092630381U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXRPlatform_Source_OVRPlatform_Public_OVRPlatformEnums_h_1490166245(TEXT("/Script/OVRPlatform"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXRPlatform_Source_OVRPlatform_Public_OVRPlatformEnums_h_1490166245(TEXT("/Script/OVRPlatform"),
 		nullptr, 0,
 		nullptr, 0,
-		Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXRPlatform_Source_OVRPlatform_Public_OVRPlatformEnums_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Michel_Documents_Unreal_Projects_LuaTemplate_Plugins_MetaXRPlatform_Source_OVRPlatform_Public_OVRPlatformEnums_h_Statics::EnumInfo));
+		Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXRPlatform_Source_OVRPlatform_Public_OVRPlatformEnums_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_LuaTemplate_Plugins_MetaXRPlatform_Source_OVRPlatform_Public_OVRPlatformEnums_h_Statics::EnumInfo));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

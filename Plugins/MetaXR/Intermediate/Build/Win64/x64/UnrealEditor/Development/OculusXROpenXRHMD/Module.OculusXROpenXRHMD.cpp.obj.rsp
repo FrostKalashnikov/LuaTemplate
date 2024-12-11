@@ -1,11 +1,11 @@
-"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Module.OculusXROpenXRHMD.cpp"
-/FI"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Definitions.OculusXROpenXRHMD.h"
-/Yu"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Module.OculusXROpenXRHMD.cpp.obj"
-/sourceDependencies "C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Module.OculusXROpenXRHMD.cpp.dep.json"
-@"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\OculusXROpenXRHMD.Shared.rsp"
+"D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Module.OculusXROpenXRHMD.cpp"
+/FI"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
+/FI"D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Definitions.OculusXROpenXRHMD.h"
+/Yu"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
+/Fp"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Module.OculusXROpenXRHMD.cpp.obj"
+/sourceDependencies "D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\Module.OculusXROpenXRHMD.cpp.dep.json"
+@"D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXROpenXRHMD\OculusXROpenXRHMD.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

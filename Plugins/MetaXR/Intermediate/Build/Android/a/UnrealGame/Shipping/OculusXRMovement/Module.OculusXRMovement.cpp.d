@@ -1,4 +1,4 @@
-C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Shipping/OculusXRMovement/Module.OculusXRMovement.cpp.o: \
+D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Shipping/OculusXRMovement/Module.OculusXRMovement.cpp.o: \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Engine/Public/VisualLogger/VisualLoggerCustomVersion.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Engine/Public/VisualLogger/VisualLoggerTypes.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Engine/Public/VisualLogger/VisualLogger.h \
@@ -1874,214 +1874,216 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Slate/Public/SlateSharedPCH.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/initializer_list \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__config \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/features.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/cdefs.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/versioning.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/api-level.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/ndk-version.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstddef \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/version \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stddef.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/__stddef_max_align_t.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__nullptr \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/type_traits \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/new \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/exception \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdlib \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdlib.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/stdlib.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdlib.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/alloca.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wait.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/wait.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/malloc.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stddef.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdio.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdio.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdint.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdint.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdint.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wchar_limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/int-ll64.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/bitsperlong.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/bitsperlong.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/posix_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/stddef.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/compiler_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/compiler.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/posix_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/posix_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/pthread_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdarg.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/seek_constants.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stdio.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/xlocale.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stdlib.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_stdlib_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/math.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/math.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/float.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/float.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/posix_limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/limits \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__undef_macros \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/wchar.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/wchar.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/wchar.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/time.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/time.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/time.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/time_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/select.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/signal.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/sigcontext.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/sve_context.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/signal_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/signal.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/signal.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/signal.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/signal-defs.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/siginfo.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/siginfo.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/timespec.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/ucontext.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/user.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_signal_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/mbstate_t.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/string.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/strcasecmp.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/strings.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/strings.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/string.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/ctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/ctype_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/wctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/wctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/wctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/pthread.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sched.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/sched.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/fadvise.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/falloc.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/flock64.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/flock.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/openat2.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/stat.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/uio.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/lockf.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/stat.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stat.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_sys_stat_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/utime.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/utime.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/unistd.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/getopt.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/ioctl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/sysconf.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/unistd.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_unistd_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/atomic \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__threading_support \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/chrono \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ctime \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ratio \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdint \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/climits \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/iosfwd \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/errno.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/errno.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/errno.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/errno.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/errno.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/errno-base.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_errno_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/semaphore.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstring \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/fenv.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/fenv.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fenv_arm.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/iterator \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__functional_base \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/typeinfo \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/utility \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__tuple \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__debug \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/tuple \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdbool.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdbool.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/memory.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/arm_neon.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/sanitizer/asan_interface.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/sanitizer/common_interface_defs.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/jni.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/functional \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/memory \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdexcept \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/algorithm \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bit \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/queue \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/deque \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__split_buffer \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/vector \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__bit_reference \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/unordered_set \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__hash_table \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cmath \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__node_handle \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/optional \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cfloat \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/sstream \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ostream \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ios \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__locale \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string_view \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__string \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdio \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cwchar \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cwctype \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cctype \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/mutex \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__mutex_base \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/system_error \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__errc \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cerrno \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/locale.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/locale.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/locale.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/support/android/locale_bionic.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/streambuf \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/locale \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdarg \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__bsd_locale_fallbacks.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bitset \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/istream \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Shipping/OculusXRMovement/Module.OculusXRMovement.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Shipping/OculusXRMovement/Definitions.OculusXRMovement.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/LiveLinkOculusXRMovementSourceFactory.gen.cpp \
+  D:/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h \
+  D:/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/initializer_list \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__config \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/features.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/cdefs.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/versioning.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/api-level.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/get_device_api_level_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/ndk-version.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstddef \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/version \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stddef.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/__stddef_max_align_t.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__nullptr \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/type_traits \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/new \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/exception \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdlib \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdlib.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/stdlib.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdlib.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/alloca.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wait.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/wait.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/malloc.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stddef.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdio.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdio.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdint.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdint.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdint.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wchar_limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/int-ll64.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/bitsperlong.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/bitsperlong.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/posix_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/stddef.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/compiler_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/compiler.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/posix_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/posix_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/pthread_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdarg.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/seek_constants.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stdio.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/xlocale.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stdlib.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_stdlib_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/math.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/math.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/float.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/float.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/posix_limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/limits \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__undef_macros \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/wchar.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/wchar.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/wchar.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/time.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/time.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/time.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/time_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/select.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/signal.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/sigcontext.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/sve_context.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/signal_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/signal.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/signal.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/signal.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/signal-defs.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/siginfo.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/siginfo.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/timespec.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/ucontext.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/user.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_signal_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/mbstate_t.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/string.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/strcasecmp.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/strings.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/strings.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/string.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/ctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/ctype_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/wctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/wctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/wctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/pthread.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sched.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/sched.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/fadvise.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/falloc.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/flock64.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/flock.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/openat2.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/stat.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/uio.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/lockf.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/stat.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stat.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_sys_stat_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/utime.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/utime.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/unistd.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/getopt.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/ioctl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/sysconf.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/unistd.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_unistd_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/swab.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/atomic \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__threading_support \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/chrono \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ctime \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ratio \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdint \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/climits \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/iosfwd \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/errno.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/errno.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/errno.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/errno.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/errno.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/errno-base.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_errno_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/semaphore.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstring \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/fenv.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/fenv.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fenv_arm.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/iterator \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__functional_base \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/typeinfo \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/utility \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__tuple \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__debug \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/tuple \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdbool.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdbool.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/memory.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/arm_neon.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/sanitizer/asan_interface.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/sanitizer/common_interface_defs.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/jni.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/functional \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/memory \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdexcept \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/algorithm \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bit \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/queue \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/deque \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__split_buffer \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/vector \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__bit_reference \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/unordered_set \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__hash_table \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cmath \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__node_handle \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/optional \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cfloat \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/sstream \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ostream \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ios \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__locale \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string_view \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__string \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdio \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cwchar \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cwctype \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cctype \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/mutex \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__mutex_base \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/system_error \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__errc \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cerrno \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/locale.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/locale.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/locale.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/support/android/locale_bionic.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/streambuf \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/locale \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdarg \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__bsd_locale_fallbacks.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bitset \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/istream \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Shipping/OculusXRMovement/Module.OculusXRMovement.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/a/UnrealGame/Shipping/OculusXRMovement/Definitions.OculusXRMovement.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/LiveLinkOculusXRMovementSourceFactory.gen.cpp \
   Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/LiveLinkOculusXRMovementSourceFactory.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/LiveLinkOculusXRMovementSourceFactory.h \
   Runtime/LiveLinkInterface/Public/LiveLinkSourceFactory.h \
   Runtime/Core/Public/Containers/UnrealString.h \
   Runtime/Core/Public/CoreMinimal.h Runtime/Core/Public/CoreTypes.h \
@@ -2094,48 +2096,48 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/CoreUObject/Public/UObject/UObjectGlobals.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkInterface/UHT/LiveLinkSourceFactory.generated.h \
   Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/LiveLinkOculusXRMovementSourceFactory.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRBodyTrackingComponent.gen.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRBodyTrackingComponent.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/LiveLinkOculusXRMovementSourceFactory.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRBodyTrackingComponent.gen.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRBodyTrackingComponent.h \
   Runtime/Engine/Classes/Components/PoseableMeshComponent.h \
   Runtime/Engine/Public/BoneContainer.h \
   Runtime/Engine/Classes/Components/SkinnedMeshComponent.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/PoseableMeshComponent.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovementTypes.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementTypes.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRBodyTrackingComponent.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXREyeTrackingComponent.gen.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXREyeTrackingComponent.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovementTypes.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementTypes.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRBodyTrackingComponent.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXREyeTrackingComponent.gen.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXREyeTrackingComponent.h \
   Runtime/Engine/Classes/Components/ActorComponent.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXREyeTrackingComponent.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRFaceTrackingComponent.gen.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRFaceTrackingComponent.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXREyeTrackingComponent.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRFaceTrackingComponent.gen.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRFaceTrackingComponent.h \
   Runtime/Engine/Classes/Components/SkeletalMeshComponent.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMorphTargetsController.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRFaceTrackingComponent.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetBodyAsset.gen.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRLiveLinkRetargetBodyAsset.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMorphTargetsController.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRFaceTrackingComponent.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetBodyAsset.gen.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRLiveLinkRetargetBodyAsset.h \
   Runtime/LiveLinkAnimationCore/Public/LiveLinkRetargetAsset.h \
   Runtime/Core/Public/Containers/Map.h \
   Runtime/Core/Public/UObject/NameTypes.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkAnimationCore/UHT/LiveLinkRetargetAsset.generated.h \
   Runtime/Core/Public/Containers/StaticArray.h \
   Runtime/Engine/Public/BonePose.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetBodyAsset.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetFaceAsset.gen.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRLiveLinkRetargetFaceAsset.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetBodyAsset.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetFaceAsset.gen.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRLiveLinkRetargetFaceAsset.h \
   Runtime/Engine/Public/Animation/AnimTypes.h \
   Runtime/Core/Public/Misc/EngineVersionComparison.h \
   Runtime/Launch/Resources/Version.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetFaceAsset.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovement.init.gen.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementFunctionLibrary.gen.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovementFunctionLibrary.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRLiveLinkRetargetFaceAsset.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovement.init.gen.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementFunctionLibrary.gen.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovementFunctionLibrary.h \
   Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementFunctionLibrary.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementTypes.gen.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/LiveLinkOculusXRMovementSourceFactory.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/IOculusXRMovementModule.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementFunctionLibrary.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRMovement/UHT/OculusXRMovementTypes.gen.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/LiveLinkOculusXRMovementSourceFactory.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/IOculusXRMovementModule.h \
   Runtime/Core/Public/Modules/ModuleManager.h \
   Runtime/Core/Public/Features/IModularFeatures.h \
   Runtime/LiveLinkInterface/Public/ILiveLinkClient.h \
@@ -2169,14 +2171,14 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkInterface/UHT/LiveLinkRole.generated.h \
   Runtime/LiveLinkInterface/Public/LiveLinkPresetTypes.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkInterface/UHT/LiveLinkPresetTypes.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRBodyTrackingComponent.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRBodyTrackingComponent.cpp \
   Runtime/Engine/Classes/Engine/SkeletalMesh.h \
   Runtime/Engine/Public/DrawDebugHelpers.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDModule.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDPrivate.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDModule.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMDPrivate.h \
   Runtime/Engine/Classes/GameFramework/WorldSettings.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/IOculusXRHMDModule.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/IOculusXRHMDModule.h \
   Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayModule.h \
   Runtime/Core/Public/Modules/ModuleInterface.h \
   Runtime/Core/Public/Misc/ConfigCacheIni.h \
@@ -2194,68 +2196,68 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   Runtime/RHI/Public/RHI.h Runtime/RHI/Public/RHIResources.h \
   Runtime/TraceLog/Public/Trace/Detail/Channel.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/HeadMountedDisplay/UHT/HeadMountedDisplayTypes.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRFunctionLibrary.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRHMDTypes.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRFunctionLibrary.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRHMDTypes.h \
   Runtime/Engine/Classes/Engine/Texture2D.h \
   Runtime/CoreUObject/Public/UObject/SoftObjectPath.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRHMDTypes.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRFunctionLibrary.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRPassthroughLayerShapes.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRHMDTypes.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRFunctionLibrary.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRPassthroughLayerShapes.h \
   Runtime/Engine/Public/StereoLayerShapes.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRPassthroughMesh.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRPassthroughMesh.h \
   Runtime/Core/Public/Templates/RefCounting.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRPassthroughLayerShapes.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRPassthroughLayerShapes.generated.h \
   Runtime/Engine/Public/StereoRendering.h \
   Runtime/Core/Public/HAL/RunnableThread.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRPluginWrapper.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Types.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Insight.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_MixedReality.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Media.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRPluginWrapper.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Types.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Insight.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_MixedReality.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/ThirdParty/OVRPlugin/OVRPlugin/Include/OVR_Plugin_Media.h \
   Runtime/HeadMountedDisplay/Public/IHeadMountedDisplay.h \
   Runtime/HeadMountedDisplay/Public/LateUpdateManager.h \
   Runtime/Engine/Public/SceneInterface.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_VulkanExtensions.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_VulkanExtensions.h \
   Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayVulkanExtensions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_Settings.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_GameFrame.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_Settings.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_GameFrame.h \
   Runtime/Engine/Public/ShowFlags.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_CustomPresent.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_CustomPresent.h \
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRSwapChain.h \
   Runtime/Core/Public/HAL/Platform.h \
   Runtime/RenderCore/Public/RendererInterface.h \
   Runtime/Engine/Public/IStereoLayers.h \
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRRenderBridge.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_Layer.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_Layer.h \
   ../Plugins/Runtime/ProceduralMeshComponent/Source/ProceduralMeshComponent/Public/ProceduralMeshComponent.h \
   Runtime/Engine/Classes/Interfaces/Interface_CollisionDataProvider.h \
   Runtime/Engine/Classes/Components/MeshComponent.h \
   ../Plugins/Runtime/ProceduralMeshComponent/Intermediate/Build/Android/UnrealGame/Inc/ProceduralMeshComponent/UHT/ProceduralMeshComponent.generated.h \
   Runtime/Engine/Classes/PhysicsEngine/ConvexElem.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_Splash.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_Splash.h \
   Runtime/HeadMountedDisplay/Public/IXRLoadingScreen.h \
   Runtime/RenderCore/Public/TickableObjectRenderThread.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_StressTester.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_ConsoleCommands.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_StressTester.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_ConsoleCommands.h \
   Runtime/Core/Public/HAL/IConsoleManager.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_SpectatorScreenController.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_SpectatorScreenController.h \
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/DefaultSpectatorScreenController.h \
   Runtime/HeadMountedDisplay/Public/ISpectatorScreenController.h \
   Runtime/Core/Public/UObject/WeakObjectPtrTemplates.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_DynamicResolutionState.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_DynamicResolutionState.h \
   Runtime/Engine/Public/DynamicResolutionState.h \
   Runtime/Engine/Classes/Engine/EngineTypes.h \
   Runtime/RenderCore/Public/DynamicRenderScaling.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_DeferredDeletionQueue.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRAssetManager.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_DeferredDeletionQueue.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRAssetManager.h \
   Runtime/HeadMountedDisplay/Public/IXRSystemAssets.h \
   Runtime/HeadMountedDisplay/Public/IIdentifiableXRDevice.h \
   Runtime/Core/Public/Templates/TypeHash.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/HeadMountedDisplay/UHT/IIdentifiableXRDevice.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRResourceHolder.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRResourceHolder.h \
   Runtime/Engine/Classes/Materials/MaterialInterface.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRResourceHolder.generated.h \
+  D:/LuaTemplate/Plugins/MetaXR/Intermediate/Build/Android/UnrealGame/Inc/OculusXRHMD/UHT/OculusXRResourceHolder.generated.h \
   Runtime/CoreUObject/Public/UObject/SoftObjectPtr.h \
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/HeadMountedDisplayBase.h \
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRTrackingSystemBase.h \
@@ -2309,37 +2311,37 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRThreadUtils.h \
   Runtime/Core/Public/Templates/Function.h \
   Runtime/RenderCore/Public/Shader.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_FoveatedRendering.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Private/OculusXRHMD_FoveatedRendering.h \
   Runtime/Renderer/Public/VariableRateShadingImageManager.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementLog.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRTelemetryMovementEvents.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRTelemetry.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRQPL.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementLog.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRTelemetryMovementEvents.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRTelemetry.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRHMD/Public/OculusXRQPL.h \
   Runtime/Core/Public/Misc/DateTime.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXREyeTrackingComponent.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXREyeTrackingComponent.cpp \
   Runtime/Engine/Classes/GameFramework/PlayerController.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovementHelpers.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRFaceTrackingComponent.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovementHelpers.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRFaceTrackingComponent.cpp \
   Runtime/Core/Public/Math/UnrealMathUtility.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRLiveLinkRetargetBodyAsset.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRLiveLinkRetargetBodyAsset.cpp \
   Runtime/Core/Public/Algo/Accumulate.h \
   Runtime/Core/Public/Templates/Invoke.h \
   Runtime/Core/Public/Algo/ForEach.h \
   Runtime/LiveLinkInterface/Public/Roles/LiveLinkAnimationTypes.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkInterface/UHT/LiveLinkAnimationTypes.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovement.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRLiveLinkRetargetFaceAsset.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Public/OculusXRMovement.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRLiveLinkRetargetFaceAsset.cpp \
   Runtime/Engine/Public/Animation/AnimCurveTypes.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMorphTargetsController.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMorphTargetsController.cpp \
   Runtime/Engine/Public/AnimationRuntime.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovement.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementModule.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovement.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementModule.h \
   Runtime/LiveLinkInterface/Public/ILiveLinkSource.h \
   Runtime/LiveLinkInterface/Public/LiveLinkSourceSettings.h \
   Runtime/Core/Public/Misc/FrameNumber.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkInterface/UHT/LiveLinkSourceSettings.generated.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkInterface/UHT/ILiveLinkSource.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementLiveLink.h \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementLiveLink.h \
   Runtime/LiveLinkInterface/Public/Roles/LiveLinkAnimationRole.h \
   Runtime/LiveLinkInterface/Public/LiveLinkFrameInterpolationProcessor.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkInterface/UHT/LiveLinkFrameInterpolationProcessor.generated.h \
@@ -2350,7 +2352,7 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Intermedia
   ../Intermediate/Build/Android/UnrealGame/Inc/LiveLinkInterface/UHT/LiveLinkAnimationRole.generated.h \
   Runtime/Engine/Public/Tickable.h \
   Runtime/Core/Public/Logging/MessageLog.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementFunctionLibrary.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementLiveLink.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementModule.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementTypes.cpp
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementFunctionLibrary.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementLiveLink.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementModule.cpp \
+  D:/LuaTemplate/Plugins/MetaXR/Source/OculusXRMovement/Private/OculusXRMovementTypes.cpp

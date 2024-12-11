@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OculusXRMovement.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRMovement\Module.OculusXRMovement.cpp.obj"
+"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRMovement\Default.rc2.res"
+/OUT:"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRMovement\UnrealEditor-OculusXRMovement.lib"

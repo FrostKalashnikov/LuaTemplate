@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-OculusXRPassthrough.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
-"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRPassthrough\Module.OculusXRPassthrough.cpp.obj"
-"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRPassthrough\Default.rc2.res"
-/OUT:"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRPassthrough\UnrealEditor-OculusXRPassthrough.lib"
+"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRPassthrough\Module.OculusXRPassthrough.cpp.obj"
+"D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRPassthrough\Default.rc2.res"
+/OUT:"D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRPassthrough\UnrealEditor-OculusXRPassthrough.lib"

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\luatemplate\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\module.vrexpansionplugin.5.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\luatemplate\\intermediate\\build\\win64\\x64\\seleneeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\luatemplate\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "d:\\luatemplate\\plugins\\vrexpansionplugin\\source\\vrexpansionplugin\\private\\vrtrackedparentinterface.cpp",
+            "d:\\luatemplate\\plugins\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrtrackedparentinterface.h",
+            "d:\\luatemplate\\plugins\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrbpdatatypes.h",
+            "d:\\luatemplate\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrbpdatatypes.generated.h",
+            "d:\\luatemplate\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrtrackedparentinterface.generated.h",
+            "d:\\luatemplate\\plugins\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\uht\\vrtrackedparentinterface.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

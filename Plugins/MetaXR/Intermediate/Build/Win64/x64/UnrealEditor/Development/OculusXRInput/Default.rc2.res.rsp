@@ -76,5 +76,5 @@
 /DPROJECT_COPYRIGHT_STRING="Copyright Studio Dark Way, all rights reserved "
 /DPROJECT_PRODUCT_NAME=Selene
 /DPROJECT_PRODUCT_IDENTIFIER=Selene
-/fo "C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRInput\Default.rc2.res"
+/fo "D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRInput\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

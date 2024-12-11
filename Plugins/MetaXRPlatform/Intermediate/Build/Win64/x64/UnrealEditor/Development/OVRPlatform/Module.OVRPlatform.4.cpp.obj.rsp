@@ -1,11 +1,11 @@
-"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Module.OVRPlatform.4.cpp"
-/FI"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Definitions.OVRPlatform.h"
-/Yu"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Module.OVRPlatform.4.cpp.obj"
-/sourceDependencies "C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Module.OVRPlatform.4.cpp.dep.json"
-@"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatform.Shared.rsp"
+"D:\LuaTemplate\Plugins\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Module.OVRPlatform.4.cpp"
+/FI"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"D:\LuaTemplate\Plugins\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Definitions.OVRPlatform.h"
+/Yu"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"D:\LuaTemplate\Plugins\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Module.OVRPlatform.4.cpp.obj"
+/sourceDependencies "D:\LuaTemplate\Plugins\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Module.OVRPlatform.4.cpp.dep.json"
+@"D:\LuaTemplate\Plugins\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatform.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

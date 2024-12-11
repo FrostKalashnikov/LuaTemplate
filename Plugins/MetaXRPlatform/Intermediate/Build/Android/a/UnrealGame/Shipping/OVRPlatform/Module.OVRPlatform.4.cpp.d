@@ -1,4 +1,4 @@
-C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/a/UnrealGame/Shipping/OVRPlatform/Module.OVRPlatform.4.cpp.o: \
+D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/a/UnrealGame/Shipping/OVRPlatform/Module.OVRPlatform.4.cpp.o: \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Engine/Public/VisualLogger/VisualLoggerCustomVersion.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Engine/Public/VisualLogger/VisualLoggerTypes.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Engine/Public/VisualLogger/VisualLogger.h \
@@ -1874,455 +1874,457 @@ C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/In
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Slate/Public/SlateSharedPCH.h \
   C:/Program\ Files/Epic\ Games/UE_5.3/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/initializer_list \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__config \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/features.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/cdefs.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/versioning.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/api-level.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/ndk-version.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstddef \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/version \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stddef.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/__stddef_max_align_t.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__nullptr \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/type_traits \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/new \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/exception \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdlib \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdlib.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/stdlib.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdlib.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/alloca.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wait.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/wait.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/malloc.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stddef.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdio.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdio.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdint.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdint.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdint.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wchar_limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/int-ll64.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/bitsperlong.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/bitsperlong.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/posix_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/stddef.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/compiler_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/compiler.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/posix_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/posix_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/pthread_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdarg.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/seek_constants.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stdio.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/xlocale.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stdlib.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_stdlib_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/math.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/math.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/float.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/float.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/posix_limits.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/limits \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__undef_macros \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/wchar.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/wchar.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/wchar.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/time.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/time.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/time.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/time_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/select.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/signal.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/sigcontext.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/sve_context.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/signal_types.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/signal.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/signal.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/signal.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/signal-defs.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/siginfo.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/siginfo.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/timespec.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/ucontext.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/user.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_signal_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/mbstate_t.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/string.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/strcasecmp.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/strings.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/strings.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/string.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/ctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/ctype_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/wctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/wctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/wctype.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/pthread.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sched.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/sched.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/fadvise.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/falloc.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/flock64.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/flock.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/openat2.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/stat.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/uio.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/lockf.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/fcntl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/stat.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stat.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_sys_stat_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/utime.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/utime.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/unistd.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/getopt.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/ioctl.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/sysconf.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/unistd.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_unistd_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/atomic \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__threading_support \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/chrono \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ctime \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ratio \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdint \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/climits \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/iosfwd \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/errno.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/errno.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/errno.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/errno.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/errno.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/errno-base.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_errno_inlines.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/semaphore.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstring \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/fenv.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/fenv.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fenv_arm.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/iterator \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__functional_base \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/typeinfo \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/utility \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__tuple \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__debug \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/tuple \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdbool.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdbool.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/memory.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/arm_neon.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/sanitizer/asan_interface.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/sanitizer/common_interface_defs.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/jni.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/functional \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/memory \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdexcept \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/algorithm \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bit \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/queue \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/deque \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__split_buffer \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/vector \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__bit_reference \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/unordered_set \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__hash_table \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cmath \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__node_handle \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/optional \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cfloat \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/sstream \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ostream \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ios \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__locale \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string_view \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__string \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdio \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cwchar \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cwctype \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cctype \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/mutex \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__mutex_base \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/system_error \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__errc \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cerrno \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/locale.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/locale.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/locale.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/support/android/locale_bionic.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/streambuf \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/locale \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdarg \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__bsd_locale_fallbacks.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bitset \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/istream \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/a/UnrealGame/Shipping/OVRPlatform/Module.OVRPlatform.4.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/a/UnrealGame/Shipping/OVRPlatform/Definitions.OVRPlatform.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformFunctions.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformFunctions.h \
+  D:/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedDefinitions.Engine.Cpp20.InclOrderUnreal5_0.h \
+  D:/LuaTemplate/Intermediate/Build/Android/a/Selene/Shipping/Engine/SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/initializer_list \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__config \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/features.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/cdefs.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/versioning.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/api-level.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/get_device_api_level_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/ndk-version.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstddef \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/version \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stddef.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/__stddef_max_align_t.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__nullptr \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/type_traits \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/new \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/exception \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdlib \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdlib.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/stdlib.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdlib.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/alloca.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wait.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/wait.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/malloc.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stddef.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdio.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdio.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdint.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdint.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdint.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wchar_limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/int-ll64.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/bitsperlong.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/bitsperlong.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/posix_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/stddef.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/compiler_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/compiler.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/posix_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/posix_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/pthread_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdarg.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/seek_constants.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stdio.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/xlocale.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stdlib.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_stdlib_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/math.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/math.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/float.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/float.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/posix_limits.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/limits \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__undef_macros \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/wchar.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/wchar.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/wchar.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/time.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/time.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/time.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/time_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/select.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/signal.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/sigcontext.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/sve_context.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/signal_types.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/signal.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/signal.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/signal.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/signal-defs.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/siginfo.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/siginfo.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/timespec.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/ucontext.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/user.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_signal_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/mbstate_t.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/wctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/string.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/strcasecmp.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/strings.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/strings.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/string.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/ctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/ctype_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/wctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/wctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/wctype.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/pthread.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sched.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/sched.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/fadvise.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/falloc.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/flock64.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/flock.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/openat2.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/stat.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/uio.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/lockf.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/fcntl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/sys/stat.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/stat.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_sys_stat_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/utime.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/utime.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/unistd.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/getopt.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/ioctl.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/sysconf.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fortify/unistd.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_unistd_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/swab.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/atomic \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__threading_support \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/chrono \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ctime \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ratio \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdint \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/climits \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/iosfwd \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/errno.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/errno.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/errno.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/asm/errno.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/errno.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/asm-generic/errno-base.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/legacy_errno_inlines.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/semaphore.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstring \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/fenv.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/fenv.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/bits/fenv_arm.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/iterator \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__functional_base \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/typeinfo \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/utility \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__tuple \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__debug \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/tuple \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdbool.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdbool.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/memory.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/arm_neon.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/sanitizer/asan_interface.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/sanitizer/common_interface_defs.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/jni.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/functional \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/memory \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdexcept \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/algorithm \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bit \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/queue \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/deque \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__split_buffer \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/vector \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__bit_reference \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/unordered_set \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__hash_table \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cmath \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__node_handle \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/optional \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cfloat \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/sstream \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ostream \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/ios \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__locale \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string_view \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__string \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdio \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cwchar \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cwctype \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cctype \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/mutex \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__mutex_base \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/system_error \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__errc \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cerrno \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/locale.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/locale.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/locale.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/support/android/locale_bionic.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/streambuf \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/locale \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdarg \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__bsd_locale_fallbacks.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bitset \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/istream \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/a/UnrealGame/Shipping/OVRPlatform/Module.OVRPlatform.4.cpp \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/a/UnrealGame/Shipping/OVRPlatform/Definitions.OVRPlatform.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformFunctions.cpp \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformFunctions.h \
   Runtime/Core/Public/CoreMinimal.h \
   Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformModels.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformTypes.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Platform.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Types.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_KeyValuePairType.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Platform_Defs.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipSampleRate.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_MediaContentType.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_MessageType.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LogEventName.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LogEventParameter.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Voip_LowLevel.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipEncoder.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipDecoder.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Microphone.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PlatformVersion.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AbuseReportRecording.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementDefinition.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementType.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementDefinitionArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementProgress.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementProgressArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementUpdate.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AppDownloadProgressResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AppStatus.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AppDownloadResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ApplicationInvite.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Destination.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_User.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserPresenceStatus.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ApplicationInviteArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ApplicationVersion.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetDetails.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LanguagePackInfo.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetDetailsArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetFileDeleteResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetFileDownloadCancelResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetFileDownloadResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetFileDownloadUpdate.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AvatarEditorResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_BlockedUser.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_BlockedUserArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Challenge.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeCreationType.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeVisibility.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Leaderboard.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeEntry.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeEntryArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_CowatchViewer.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_CowatchViewerArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_CowatchViewerUpdate.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_CowatchingState.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_DataStore.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_DestinationArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Error.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_GroupPresenceJoinIntent.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_GroupPresenceLeaveIntent.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_HttpTransferUpdate.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_InstalledApplication.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_InstalledApplicationArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_InvitePanelResultInfo.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchBlockFlowResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchDetails.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchType.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchFriendRequestFlowResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchInvitePanelFlowResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchReportFlowResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchUnblockFlowResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardEntry.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SupplementaryMetric.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardEntryArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardUpdateStatus.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LinkedAccount.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ServiceProvider.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LinkedAccountArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LivestreamingApplicationStatus.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LivestreamingStartResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LivestreamingStartStatus.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LivestreamingStatus.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LivestreamingVideoStats.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Message.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_MicrophoneAvailabilityState.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncConnection.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncConnectionStatus.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncDisconnectReason.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncSessionArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncSession.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncSessionsChangedNotification.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncSetSessionPropertyResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncVoipAttenuationValueArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncVoipAttenuationValue.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_OrgScopedID.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Party.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PartyID.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PartyUpdateNotification.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PartyUpdateAction.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PidArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Pid.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PlatformInitialize.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PlatformInitializeResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ProductArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Product.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Purchase.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PurchaseArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_RejoinDialogResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SdkAccountArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SdkAccount.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SdkAccountType.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SendInvitesResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ShareMediaResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ShareMediaStatus.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SystemVoipState.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SystemVoipStatus.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipMuteState.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserAccountAgeCategory.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AccountAgeCategory.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserCapabilityArray.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserCapability.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserDataStoreUpdateResponse.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserProof.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserReportID.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Packet.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_AbuseReport.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AdvancedAbuseReportOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AbuseReportType.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AbuseReportVideoMode.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ReportRequestResponse.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Achievements.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Application.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ApplicationOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_ApplicationLifecycle.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_AssetFile.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Avatar.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AvatarEditorOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Challenges.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeViewerFilter.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardFilterType.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardStartAt.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Cowatching.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_DeviceApplicationIntegrity.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Entitlement.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_GroupPresence.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_GroupPresenceOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_InviteOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_MultiplayerErrorOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_MultiplayerErrorErrorKey.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_RosterOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_IAP.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_LanguagePack.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Leaderboard.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Media.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Notification.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Party.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_RichPresence.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_RichPresenceOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_RichPresenceExtraContext.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_User.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AbuseReportOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_TimeWindow.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_UserAgeCategory.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AppAgeCategory.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Voip.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncVoipStreamMode.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipBitrate.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipDtxState.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Functions_ApplicationLifecycle.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchResult.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Functions_Voip.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformModels.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformTypes.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Platform.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Types.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_KeyValuePairType.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Platform_Defs.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipSampleRate.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_MediaContentType.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_MessageType.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LogEventName.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LogEventParameter.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Voip_LowLevel.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipEncoder.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipDecoder.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Microphone.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PlatformVersion.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AbuseReportRecording.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementDefinition.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementType.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementDefinitionArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementProgress.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementProgressArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AchievementUpdate.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AppDownloadProgressResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AppStatus.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AppDownloadResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ApplicationInvite.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Destination.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_User.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserPresenceStatus.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ApplicationInviteArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ApplicationVersion.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetDetails.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LanguagePackInfo.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetDetailsArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetFileDeleteResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetFileDownloadCancelResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetFileDownloadResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AssetFileDownloadUpdate.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AvatarEditorResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_BlockedUser.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_BlockedUserArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Challenge.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeCreationType.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeVisibility.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Leaderboard.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeEntry.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeEntryArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_CowatchViewer.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_CowatchViewerArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_CowatchViewerUpdate.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_CowatchingState.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_DataStore.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_DestinationArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Error.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_GroupPresenceJoinIntent.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_GroupPresenceLeaveIntent.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_HttpTransferUpdate.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_InstalledApplication.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_InstalledApplicationArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_InvitePanelResultInfo.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchBlockFlowResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchDetails.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchType.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchFriendRequestFlowResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchInvitePanelFlowResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchReportFlowResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchUnblockFlowResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardEntry.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SupplementaryMetric.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardEntryArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardUpdateStatus.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LinkedAccount.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ServiceProvider.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LinkedAccountArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LivestreamingApplicationStatus.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LivestreamingStartResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LivestreamingStartStatus.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LivestreamingStatus.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LivestreamingVideoStats.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Message.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_MicrophoneAvailabilityState.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncConnection.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncConnectionStatus.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncDisconnectReason.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncSessionArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncSession.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncSessionsChangedNotification.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncSetSessionPropertyResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncVoipAttenuationValueArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncVoipAttenuationValue.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_OrgScopedID.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Party.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PartyID.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PartyUpdateNotification.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PartyUpdateAction.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PidArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Pid.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PlatformInitialize.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PlatformInitializeResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ProductArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Product.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Purchase.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PurchaseArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_RejoinDialogResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SdkAccountArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SdkAccount.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SdkAccountType.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SendInvitesResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ShareMediaResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ShareMediaStatus.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SystemVoipState.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_SystemVoipStatus.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipMuteState.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserAccountAgeCategory.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AccountAgeCategory.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserCapabilityArray.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserCapability.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserDataStoreUpdateResponse.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserProof.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserReportID.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Packet.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_AbuseReport.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AdvancedAbuseReportOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AbuseReportType.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AbuseReportVideoMode.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ReportRequestResponse.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Achievements.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Application.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ApplicationOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_ApplicationLifecycle.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_AssetFile.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Avatar.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AvatarEditorOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Challenges.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_ChallengeViewerFilter.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardFilterType.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LeaderboardStartAt.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Cowatching.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_DeviceApplicationIntegrity.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Entitlement.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_GroupPresence.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_GroupPresenceOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_InviteOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_MultiplayerErrorOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_MultiplayerErrorErrorKey.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_RosterOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_IAP.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_LanguagePack.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Leaderboard.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Media.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Notification.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Party.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_RichPresence.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_RichPresenceOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_RichPresenceExtraContext.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_User.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AbuseReportOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_TimeWindow.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_UserAgeCategory.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_AppAgeCategory.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Requests_Voip.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncVoipStreamMode.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipBitrate.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_VoipDtxState.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Functions_ApplicationLifecycle.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchResult.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Functions_Voip.h \
   Runtime/Core/Public/Misc/CString.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformEnums.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncVoipMicSource.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PermissionGrantStatus.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserOrdering.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformEnums.generated.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformEnums.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncVoipMicSource.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_PermissionGrantStatus.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_UserOrdering.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformEnums.generated.h \
   Runtime/CoreUObject/Public/Templates/IsUEnumClass.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
   Runtime/CoreUObject/Public/UObject/ReflectedTypeAccessors.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformTypes.generated.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformTypes.generated.h \
   Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformModels.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformOptions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformOptions.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformFunctions.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformRequestsConverters.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformOptionsConverters.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformModels.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformPageRequests.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformPageRequests.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformRequestsSupport.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformModels.generated.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformOptions.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformOptions.generated.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformFunctions.generated.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformRequestsConverters.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformOptionsConverters.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformModels.cpp \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformPageRequests.cpp \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformPageRequests.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformRequestsSupport.h \
   Runtime/Engine/Classes/Engine/LatentActionManager.h \
   Runtime/Engine/Public/LatentActions.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformSubsystem.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformSubsystem.h \
   Runtime/Engine/Public/Tickable.h \
   Runtime/Engine/Public/Subsystems/GameInstanceSubsystem.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformSDK.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformSubsystem.generated.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformSDK.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformSubsystem.generated.h \
   Runtime/ApplicationCore/Public/Android/AndroidApplication.h \
   Runtime/ApplicationCore/Public/GenericPlatform/GenericApplication.h \
   Runtime/ApplicationCore/Public/Android/AndroidWindow.h \
   Runtime/ApplicationCore/Public/GenericPlatform/GenericWindow.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/native_window.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/data_space.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/inttypes.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/inttypes.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/inttypes.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/inttypes.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/hardware_buffer.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/rect.h \
-  C:/Users/Michel/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/native_window_jni.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/native_window.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/data_space.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/inttypes.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/inttypes.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/local/include/inttypes.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/inttypes.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/hardware_buffer.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/rect.h \
+  C:/Users/AshFrost/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/native_window_jni.h \
   Runtime/Core/Public/Android/AndroidJavaEnv.h \
   Runtime/Core/Public/CoreTypes.h Runtime/Core/Public/Containers/Array.h \
   Runtime/Core/Public/Containers/UnrealString.h \
   Runtime/Engine/Classes/Engine/Engine.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformPageRequests.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformRequests.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformRequests.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformRequests.generated.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformCppRequests.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformCppPageRequests.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformRequestsSupport.cpp \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformPageRequests.generated.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformRequests.cpp \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformRequests.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformRequests.generated.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformCppRequests.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformCppPageRequests.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformRequestsSupport.cpp \
   Runtime/Engine/Classes/Engine/GameInstance.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformSDK.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformSubsystem.cpp \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformSDK.cpp \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformSubsystem.cpp \
   Runtime/Core/Public/Misc/ConfigCacheIni.h \
   Runtime/Core/Public/Misc/OutputDeviceNull.h \
   Runtime/Core/Public/Logging/LogVerbosity.h \
   Runtime/Core/Public/Misc/OutputDevice.h \
   Runtime/Core/Public/Misc/CommandLine.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatform.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatform.h \
   Runtime/Core/Public/Modules/ModuleManager.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformUtils.cpp \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformUtils.h \
-  C:/Users/Michel/Documents/Unreal\ Projects/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformUtils.generated.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformUtils.cpp \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformUtils.h \
+  D:/LuaTemplate/Plugins/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformUtils.generated.h \
   Runtime/Core/Public/Misc/DefaultValueHelper.h \
   Runtime/Core/Public/Math/MathFwd.h Runtime/Core/Public/Misc/Timespan.h \
   Runtime/Core/Public/Misc/DateTime.h

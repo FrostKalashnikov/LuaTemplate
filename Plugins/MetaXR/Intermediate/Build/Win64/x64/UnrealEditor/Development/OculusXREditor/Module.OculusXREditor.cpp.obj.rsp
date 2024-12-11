@@ -1,11 +1,11 @@
-"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Module.OculusXREditor.cpp"
-/FI"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Definitions.OculusXREditor.h"
-/Yu"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Module.OculusXREditor.cpp.obj"
-/sourceDependencies "C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Module.OculusXREditor.cpp.dep.json"
-@"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\OculusXREditor.Shared.rsp"
+"D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Module.OculusXREditor.cpp"
+/FI"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
+/FI"D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Definitions.OculusXREditor.h"
+/Yu"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h"
+/Fp"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Module.OculusXREditor.cpp.obj"
+/sourceDependencies "D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Module.OculusXREditor.cpp.dep.json"
+@"D:\LuaTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\OculusXREditor.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VRExpansionPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\LuaTemplate\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.1.cpp.obj"
+"D:\LuaTemplate\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.2.cpp.obj"
+"D:\LuaTemplate\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.3.cpp.obj"
+"D:\LuaTemplate\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.4.cpp.obj"
+"D:\LuaTemplate\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.5.cpp.obj"
+"D:\LuaTemplate\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\Default.rc2.res"
+/OUT:"D:\LuaTemplate\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\VRExpansionPlugin\UnrealEditor-VRExpansionPlugin.lib"

@@ -34,9 +34,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
-"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\VRPrintString\Intermediate\Build\Win64\x64\UnrealEditor\Development\VrPrintString\Module.VrPrintString.cpp.obj"
-"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\VRPrintString\Intermediate\Build\Win64\x64\UnrealEditor\Development\VrPrintString\Default.rc2.res"
+"D:\LuaTemplate\Intermediate\Build\Win64\x64\SeleneEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\LuaTemplate\Plugins\VRPrintString\Intermediate\Build\Win64\x64\UnrealEditor\Development\VrPrintString\Module.VrPrintString.cpp.obj"
+"D:\LuaTemplate\Plugins\VRPrintString\Intermediate\Build\Win64\x64\UnrealEditor\Development\VrPrintString\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Settings\UnrealEditor-Settings.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -69,7 +69,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\VRPrintString\Binaries\Win64\UnrealEditor-VrPrintString.dll"
-/IMPLIB:"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\VRPrintString\Intermediate\Build\Win64\x64\UnrealEditor\Development\VrPrintString\UnrealEditor-VrPrintString.sup.lib"
-/PDB:"C:\Users\Michel\Documents\Unreal Projects\LuaTemplate\Plugins\VRPrintString\Binaries\Win64\UnrealEditor-VrPrintString.pdb"
+/OUT:"D:\LuaTemplate\Plugins\VRPrintString\Binaries\Win64\UnrealEditor-VrPrintString.dll"
+/IMPLIB:"D:\LuaTemplate\Plugins\VRPrintString\Intermediate\Build\Win64\x64\UnrealEditor\Development\VrPrintString\UnrealEditor-VrPrintString.sup.lib"
+/PDB:"D:\LuaTemplate\Plugins\VRPrintString\Binaries\Win64\UnrealEditor-VrPrintString.pdb"
 /ignore:4078
